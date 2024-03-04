@@ -6,7 +6,7 @@ Embedded software engineer and frontend developer
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [mahmoudaymann153@gmail.com](mailto:mahmoudaymann153@gmail.com)
-* 🧠  I'm learning Embedded C
+* 🧠  I'm learning Embedded System
 * 🤝  I'm open to collaborating on Projects
 * ⚡  i'm Batman , Tell everyone
 
