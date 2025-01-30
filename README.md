@@ -6,7 +6,6 @@
 * ✉️ You can contact me at [mahmoudaymann153@gmail.com](mailto:mahmoudaymann153@gmail.com)  
 * 🧠 I'm learning AI/ML  
 * 🤝 I'm open to collaborating on Projects  
-* ⚡ I'm Batman, Tell everyone  
 
 ### Skills
 <p align="left">
