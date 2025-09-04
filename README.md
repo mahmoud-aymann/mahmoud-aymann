@@ -58,7 +58,7 @@ I design and deliver AI systems that convert visual and textual data into measur
   <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-aymann&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub stats" />
 </a>
 
-<a href="http://www.github.com/mahmoud-aymann">
-  <img src="https://streak-stats.demolab.com?user=mahmoud-aymann&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak" />
+<a href="https://github.com/mahmoud-aymann">
+  <img src="https://streak-stats.demolab.com?user=mahmoud-aymann&theme=dark&hide_border=true&v=2" alt="GitHub streak" />
 </a>
 
