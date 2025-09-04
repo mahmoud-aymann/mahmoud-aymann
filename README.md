@@ -24,6 +24,24 @@ I design and deliver AI systems that convert visual and textual data into measur
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahmoud-aymann&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud-aymann&theme=github-compact&hide_border=true" alt="Activity Graph" />
+</p>
+
+### Computer Vision Focus
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/YOLO-%23000000?logo=github&logoColor=white" alt="YOLO" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
+</p>
+
 ### Highlights
 - Co‑manage a boutique practice delivering AI and data services
 - End‑to‑end product delivery: discovery → MVP → deployment → monitoring
@@ -62,8 +80,4 @@ I design and deliver AI systems that convert visual and textual data into measur
   <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-aymann&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-aymann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
-<p align="center">
-<!--   <img src="https://streak-stats.demolab.com?user=mahmoud-aymann&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p> -->
 
