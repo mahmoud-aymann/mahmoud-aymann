@@ -1,5 +1,10 @@
 # Mahmoud Ayman
-### AI/ML and Computer Vision · Communications & Electronics Engineering
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%2FML-0B132B?style=for-the-badge&logo=openai&logoColor=white" alt="AI/ML" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-1C2541?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Communications%20%26%20Electronics-3A506B?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Communications & Electronics" />
+</p>
+### 🧠 AI/ML and 👁️ Computer Vision · 🔌 Communications & Electronics Engineering
 -------------------------------------------------
 
 I design and deliver AI systems that convert visual and textual data into measurable business outcomes. Currently pursuing an advanced AI/ML diploma (NLP, CV, LLMs, Generative AI).
