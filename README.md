@@ -54,11 +54,16 @@ I design and deliver AI systems that convert visual and textual data into measur
 </p>
 
 ### GitHub Stats
-<a href="http://www.github.com/mahmoud-aymann">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-aymann&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub stats" />
-</a>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-aymann&theme=github_dark" alt="Profile Details" />
+</p>
 
-<a href="https://github.com/mahmoud-aymann">
-  <img src="https://streak-stats.demolab.com?user=mahmoud-aymann&theme=dark&hide_border=true&v=2" alt="GitHub streak" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-aymann&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-aymann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mahmoud-aymann&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
