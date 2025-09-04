@@ -64,6 +64,6 @@ I design and deliver AI systems that convert visual and textual data into measur
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mahmoud-aymann&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<!--   <img src="https://streak-stats.demolab.com?user=mahmoud-aymann&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p> -->
 
