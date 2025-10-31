@@ -4,9 +4,11 @@
   <p>
     <img src="https://img.shields.io/badge/AI%2FML-0B132B?style=flat-square&logo=openai&logoColor=white" alt="AI/ML" />
     <img src="https://img.shields.io/badge/Computer%20Vision-1C2541?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision" />
+    <img src="https://img.shields.io/badge/NLP-5A189A?style=flat-square&logo=huggingface&logoColor=white" alt="NLP" />
     <img src="https://img.shields.io/badge/Communications%20%26%20Electronics-3A506B?style=flat-square&logo=raspberrypi&logoColor=white" alt="Communications & Electronics" />
   </p>
   <p>
+    <a href="https://mahmoudayman.me" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Website-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
     <a href="https://www.linkedin.com/in/mahmoud-aymann/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:mahmoudaymann153@gmail.com"><img src="https://img.shields.io/badge/Email-3B82F6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/mahmoud-aymann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -67,6 +69,7 @@ I design and deliver AI systems that convert visual and textual data into measur
 ### Contact
 - 🌍 Based in Egypt
 - ✉️ [mahmoudaymann153@gmail.com](mailto:mahmoudaymann153@gmail.com)
+- 🌐 Portfolio: [mahmoudayman.me](https://mahmoudayman.me)
 
 ### Socials
 <p align="left">
