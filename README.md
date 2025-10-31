@@ -77,7 +77,7 @@ I design and deliver AI systems that convert visual and textual data into measur
   <a href="https://www.github.com/mahmoud-aymann" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
-  <a href="https://mahmoudayman.hashnode.dev" target="_blank" rel="noreferrer">
+  <a href="https://hashnode.com/@mahmoudayman1" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" />
   </a>
   <a href="https://www.linkedin.com/in/mahmoud-aymann/" target="_blank" rel="noreferrer">
