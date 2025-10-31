@@ -69,6 +69,7 @@ I design and deliver AI systems that convert visual and textual data into measur
 ### Contact
 - 🌍 Based in Egypt
 - ✉️ [mahmoudaymann153@gmail.com](mailto:mahmoudaymann153@gmail.com)
+- ✉️ [info@mahmoudayman.me](mailto:info@mahmoudayman.me)
 - 🌐 Portfolio: [mahmoudayman.me](https://mahmoudayman.me)
 
 ### Socials
