@@ -1,100 +1,46 @@
 <div align="center">
   <h1>Mahmoud Ayman</h1>
-  <p><strong>AI/ML & Computer Vision</strong> · Communications & Electronics Engineering</p>
-  <p>
-    <img src="https://img.shields.io/badge/AI%2FML-0B132B?style=flat-square&logo=openai&logoColor=white" alt="AI/ML" />
-    <img src="https://img.shields.io/badge/Computer%20Vision-1C2541?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision" />
-    <img src="https://img.shields.io/badge/NLP-5A189A?style=flat-square&logo=huggingface&logoColor=white" alt="NLP" />
-    <img src="https://img.shields.io/badge/Communications%20%26%20Electronics-3A506B?style=flat-square&logo=raspberrypi&logoColor=white" alt="Communications & Electronics" />
-  </p>
-  <p>
-    <a href="https://mahmoudayman.me" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Website-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
-    <a href="https://www.linkedin.com/in/mahmoud-aymann/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:mahmoudaymann153@gmail.com"><img src="https://img.shields.io/badge/Email-3B82F6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/mahmoud-aymann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
+  <p><strong>AI/ML Engineer — Computer Vision & NLP</strong></p>
+  <p><a href="https://mahmoudayman.me" target="_blank" rel="noreferrer">Website</a> · <a href="https://www.linkedin.com/in/mahmoud-aymann/" target="_blank" rel="noreferrer">LinkedIn</a> · <a href="mailto:mahmoudaymann153@gmail.com">Email</a> · <a href="https://github.com/mahmoud-aymann" target="_blank" rel="noreferrer">GitHub</a></p>
 </div>
 
 ---
 
-I design and deliver AI systems that convert visual and textual data into measurable business outcomes. Currently pursuing an advanced AI/ML diploma (NLP, CV, LLMs, Generative AI).
+I build production-grade AI systems that transform visual and textual data into measurable business outcomes. I deliver end-to-end: discovery, prototyping, validation, deployment, and monitoring.
 
-• 100+ clients served · Multiple AI solutions shipped end‑to‑end · Egypt‑based, working globally
+• 100+ clients served · Multiple shipped solutions · Egypt-based, working globally
 
-### Expertise
+### What I Do
 - Computer Vision: detection, segmentation, OCR, tracking, quality inspection
 - NLP: classification, NER, summarization, RAG with LLMs
-- LLMs & Generative AI: prompt engineering, fine‑tuning, evaluation
-- Data Science & MLOps: prototyping, experiment tracking, packaging, deployment
+- LLMs & Generative AI: prompt design, fine-tuning, evaluation
+- Delivery: rapid prototyping, packaging, APIs, Docker, deployment
 
-### Stack
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="36" height="36" alt="OpenCV" /></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="36" height="36" alt="scikit-learn" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-</p>
+### Selected Projects
+- Visual Quality Inspection: reduced false rejects by 28% with custom CV models (PyTorch + OpenCV)
+- Document OCR & Extraction: 93%+ F1 on noisy scans using OCR post-processing and layout models
+- RAG for Support Teams: 40% faster resolution via domain-tuned retrieval and evaluation harness
+- Real-time Tracking: multi-camera tracking for operations visibility with efficient inference pipelines
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmoud-aymann&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
+### Core Stack
+- Python, PyTorch, TensorFlow, scikit-learn, OpenCV
+- FastAPI for serving, Docker for packaging, Git/GitHub Actions for CI
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud-aymann&theme=github-compact&hide_border=true" alt="Activity Graph" />
-</p>
+### How I Work
+- Outcome-focused: define success metrics early and monitor after launch
+- Transparent delivery: short iterations, demos, and clear documentation
+- Production mindset: reproducibility, versioning, and observability by default
 
-### Computer Vision Focus
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/YOLO-%23000000?logo=github&logoColor=white" alt="YOLO" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
-</p>
-
-### Highlights
-- Co‑manage a boutique practice delivering AI and data services
-- End‑to‑end product delivery: discovery → MVP → deployment → monitoring
-- Execution style: fast iterations, clear communication, impact focus
-
-### Education
+### Education & Credentials
 - B.Sc. Communications & Electronics Engineering (in progress)
 - Advanced Diploma in AI & Machine Learning (NLP, CV, LLMs, Generative AI)
 
 ### Contact
-- 🌍 Based in Egypt
-- ✉️ [mahmoudaymann153@gmail.com](mailto:mahmoudaymann153@gmail.com)
-- ✉️ [info@mahmoudayman.me](mailto:info@mahmoudayman.me)
-- 🌐 Portfolio: [mahmoudayman.me](https://mahmoudayman.me)
+- ✉️ ma​hmouda​ymann153@gmail.com
+- 🌐 Portfolio: https://mahmoudayman.me
+- 🔗 LinkedIn: https://www.linkedin.com/in/mahmoud-aymann/
 
-### Socials
-<p align="left">
-  <a href="https://www.github.com/mahmoud-aymann" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-  <a href="https://hashnode.com/@mahmoudayman1" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/mahmoud-aymann/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-  <a href="http://www.medium.com/@mahmoudayman1" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
-  </a>
-</p>
+---
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-aymann&theme=github_dark" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-aymann&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-aymann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+Arabic (ملخص بالعربية): مهندس ذكاء اصطناعي متخصص في رؤية الكمبيوتر ومعالجة اللغة. أنفذ حلولاً عملية من الفكرة إلى التشغيل وتتبّع الأداء، مع تركيز على نتائج الأعمال وجودة التنفيذ.
 
