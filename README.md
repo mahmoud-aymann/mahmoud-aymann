@@ -62,10 +62,11 @@ I design and deliver AI systems that convert visual and textual data into measur
 - End‑to‑end product delivery: discovery → MVP → deployment → monitoring
 - Execution style: fast iterations, clear communication, impact focus
 
-### Featured Repository: Blood Cell
-- Repository: https://github.com/mahmoud-aymann/blood-cell
-- Summary: Computer-vision pipeline for blood cell detection/classification with robust preprocessing and evaluation.
-- Tech: PyTorch, OpenCV, scikit-learn, Weights & Biases
+### Featured Repository: Blood Cell Prediction
+- Repository: https://github.com/mahmoud-aymann/blood_cell_prediction
+- Live Demo: https://web-production-4a424.up.railway.app/
+- Summary: End‑to‑end CV app for blood cell classification with web UI, API, and deployable Docker image.
+- Tech: PyTorch, Flask, OpenCV, scikit-learn, Docker, Railway
 - Highlights:
   - Reproducible training pipeline (configs, seed control, versioned datasets)
   - Strong baselines + augmentation strategies; clear metrics and validation splits
@@ -73,16 +74,17 @@ I design and deliver AI systems that convert visual and textual data into measur
   - Well-documented notebooks and results for quick onboarding
 
 <p align="left">
-  <a href="https://github.com/mahmoud-aymann/blood-cell" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/stars/mahmoud-aymann/blood-cell?style=social" alt="Stars" /></a>
-  <a href="https://github.com/mahmoud-aymann/blood-cell/commits/main" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/last-commit/mahmoud-aymann/blood-cell?color=0A66C2" alt="Last Commit" /></a>
+  <a href="https://github.com/mahmoud-aymann/blood_cell_prediction" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/stars/mahmoud-aymann/blood_cell_prediction?style=social" alt="Stars" /></a>
+  <a href="https://github.com/mahmoud-aymann/blood_cell_prediction/commits/main" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/last-commit/mahmoud-aymann/blood_cell_prediction?color=0A66C2" alt="Last Commit" /></a>
+  <a href="https://web-production-4a424.up.railway.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Live%20Demo-Railway-0A66C2" alt="Live Demo" /></a>
 </p>
 
 ### Regional Focus: KSA, UAE & Global
-- Sectors: healthcare, manufacturing, logistics, retail, public sector, fintech
-- Arabic support: OCR on Arabic documents, Arabic NLP (classification/NER), bilingual UIs
-- Deployment: on‑prem or VPC, data‑residency aware, SSO/SAML integration
-- Compliance‑minded delivery: documentation, reproducibility, auditability, ISO‑aligned practices
-- Engagement: fixed‑scope delivery or retainer; clear SLAs and reporting cadence
+- Priority sectors: healthcare, manufacturing, logistics, retail, public sector, fintech
+- Arabic-first: Arabic OCR, Arabic NLP (classification/NER), bilingual interfaces
+- Enterprise delivery: on‑prem/VPC, data residency, SSO/SAML, audit trails
+- Compliance by design: documentation, reproducibility, ISO‑aligned practices
+- Engagement: fixed scope with milestones or retainer with SLAs
 
 ### Education
 - B.Sc. Communications & Electronics Engineering (in progress)
