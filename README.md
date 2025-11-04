@@ -32,6 +32,18 @@ I design and deliver AI systems that convert visual and textual data into measur
   <img src="https://img.shields.io/badge/Web%20Apps-Primary%20delivery-blue" alt="Web Delivery" />
 </p>
 
+<details>
+  <summary><strong>Quick Navigation</strong></summary>
+  <p>
+    <a href="#expertise">Expertise</a> ·
+    <a href="#stack">Stack</a> ·
+    <a href="#featured-repository-blood-cell-prediction">Featured Repo</a> ·
+    <a href="#enterprise-ready-delivery">Enterprise Delivery</a> ·
+    <a href="#recent-web-projects">Recent Web Projects</a> ·
+    <a href="#contact">Contact</a>
+  </p>
+</details>
+
 ### Expertise
 - Computer Vision: detection, segmentation, OCR, tracking, quality inspection
 - NLP: classification, NER, summarization, RAG with LLMs
@@ -155,3 +167,76 @@ Quick links: Live demo: https://web-production-4a424.up.railway.app/ · Repo: ht
 - Deployment/Hosting: Hostinger, Railway, Vercel; Dockerized builds and templates
 - Performance & Security: CDN, caching, HTTPS, rate limiting, observability dashboards
 - SEO & Analytics: metadata, sitemap, Lighthouse checks, privacy-aware tracking
+
+### Recent Web Projects
+<table>
+  <tr>
+    <td>
+      <strong>Warda Print</strong><br/>
+      Printing services e‑commerce<br/>
+      <a href="https://wardaprint.com/" target="_blank">wardaprint.com</a><br/>
+      <img src="https://img.shields.io/badge/HTML-orange" /> <img src="https://img.shields.io/badge/CSS-blue" /> <img src="https://img.shields.io/badge/JS-yellow" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3" />
+    </td>
+    <td>
+      <strong>Smart Hands</strong><br/>
+      Professional services platform<br/>
+      <a href="https://smarthands.sa" target="_blank">smarthands.sa</a><br/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20" /> <img src="https://img.shields.io/badge/PHP-777BB3" /> <img src="https://img.shields.io/badge/MySQL-4479A1" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Secusys</strong><br/>
+      Enterprise security solutions site<br/>
+      <a href="https://secusyss.com/" target="_blank">secusyss.com</a><br/>
+      <img src="https://img.shields.io/badge/HTML-orange" /> <img src="https://img.shields.io/badge/CSS-blue" /> <img src="https://img.shields.io/badge/JS-yellow" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3" />
+    </td>
+    <td>
+      <strong>Cloud Logistic</strong><br/>
+      Logistics management platform<br/>
+      <a href="https://cloud-logistic.com/" target="_blank">cloud-logistic.com</a><br/>
+      <img src="https://img.shields.io/badge/HTML-orange" /> <img src="https://img.shields.io/badge/CSS-blue" /> <img src="https://img.shields.io/badge/JS-yellow" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Naqaa Al Riyadh</strong><br/>
+      Cleaning services with booking<br/>
+      <a href="https://naqaaalriyadh.com/" target="_blank">naqaaalriyadh.com</a><br/>
+      <img src="https://img.shields.io/badge/HTML-orange" /> <img src="https://img.shields.io/badge/CSS-blue" /> <img src="https://img.shields.io/badge/JS-yellow" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3" />
+    </td>
+    <td>
+      <strong>Dazzle Architect</strong><br/>
+      Architecture portfolio and galleries<br/>
+      <a href="https://dazzle-architect.com/" target="_blank">dazzle-architect.com</a><br/>
+      <img src="https://img.shields.io/badge/HTML-orange" /> <img src="https://img.shields.io/badge/CSS-blue" /> <img src="https://img.shields.io/badge/JS-yellow" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Burj Al Enjaz</strong><br/>
+      Real estate listings and tours<br/>
+      <a href="https://burj-alenjaz.com/" target="_blank">burj-alenjaz.com</a><br/>
+      <img src="https://img.shields.io/badge/HTML-orange" /> <img src="https://img.shields.io/badge/CSS-blue" /> <img src="https://img.shields.io/badge/JS-yellow" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3" />
+    </td>
+    <td>
+      <strong>Mudun SA</strong><br/>
+      Urban development & planning<br/>
+      <a href="https://mudunsa.com/" target="_blank">mudunsa.com</a><br/>
+      <img src="https://img.shields.io/badge/HTML-orange" /> <img src="https://img.shields.io/badge/CSS-blue" /> <img src="https://img.shields.io/badge/JS-yellow" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Cars Oil</strong><br/>
+      Automotive maintenance & oil services<br/>
+      <a href="https://cars-oil.com/" target="_blank">cars-oil.com</a><br/>
+      <img src="https://img.shields.io/badge/HTML-orange" /> <img src="https://img.shields.io/badge/CSS-blue" /> <img src="https://img.shields.io/badge/JS-yellow" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3" />
+    </td>
+    <td>
+      <em></em>
+    </td>
+  </tr>
+</table>
+
+Worked with many clients in Saudi Arabia across services, logistics, real estate, and professional sectors.
