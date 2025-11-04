@@ -79,12 +79,12 @@ I design and deliver AI systems that convert visual and textual data into measur
   <a href="https://web-production-4a424.up.railway.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Live%20Demo-Railway-0A66C2" alt="Live Demo" /></a>
 </p>
 
-### Regional Focus: KSA, UAE & Global
-- Priority sectors: healthcare, manufacturing, logistics, retail, public sector, fintech
-- Arabic-first: Arabic OCR, Arabic NLP (classification/NER), bilingual interfaces
-- Enterprise delivery: on‑prem/VPC, data residency, SSO/SAML, audit trails
-- Compliance by design: documentation, reproducibility, ISO‑aligned practices
-- Engagement: fixed scope with milestones or retainer with SLAs
+### Enterprise-Ready Delivery
+- Security-first: secure data handling, private endpoints, access controls
+- Flexible deployment: on‑prem, VPC, or managed cloud with IaC
+- Observability: experiment tracking, versioning, metrics, and dashboards
+- Compliance-minded: documentation, reproducibility, auditability by default
+- Clear engagement: milestones, SLAs, and transparent reporting
 
 ### Education
 - B.Sc. Communications & Electronics Engineering (in progress)
