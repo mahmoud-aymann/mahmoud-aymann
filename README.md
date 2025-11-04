@@ -22,13 +22,14 @@
 
 I design and deliver AI systems that convert visual and textual data into measurable business outcomes. Currently pursuing an advanced AI/ML diploma (NLP, CV, LLMs, Generative AI).
 
-• 100+ clients served · Multiple AI solutions shipped end‑to‑end · Egypt‑based, working globally
+• 100+ clients served (majority web‑based AI apps) · Multiple solutions shipped end‑to‑end · Egypt‑based, working globally
 
 <p align="center">
   <img src="https://img.shields.io/badge/Accuracy-95%25%2B-success" alt="Accuracy" />
   <img src="https://img.shields.io/badge/Latency-%3C50ms-informational" alt="Latency" />
   <img src="https://img.shields.io/badge/Clients-100%2B-0ea5e9" alt="Clients" />
   <img src="https://img.shields.io/badge/Solutions-Shipped-blueviolet" alt="Solutions" />
+  <img src="https://img.shields.io/badge/Web%20Apps-Primary%20delivery-blue" alt="Web Delivery" />
 </p>
 
 ### Expertise
@@ -74,6 +75,7 @@ I design and deliver AI systems that convert visual and textual data into measur
 - Co‑manage a boutique practice delivering AI and data services
 - End‑to‑end product delivery: discovery → MVP → deployment → monitoring
 - Execution style: fast iterations, clear communication, impact focus
+ - Full‑stack web AI delivery: from zero → UI + API → hosting (e.g., Hostinger)
 
 ### Featured Repository: Blood Cell Prediction
 <p>
