@@ -147,3 +147,11 @@ Quick links: Live demo: https://web-production-4a424.up.railway.app/ · Repo: ht
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-aymann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+
+### Additional Web Experience
+- End-to-end web delivery: requirements → design → UI + API → CI/CD → hosting
+- Frontend: HTML5/CSS3/JavaScript, responsive UX, component-driven UIs
+- Backend: Flask/FastAPI, RESTful APIs, secure session and file handling
+- Deployment/Hosting: Hostinger, Railway, Vercel; Dockerized builds and templates
+- Performance & Security: CDN, caching, HTTPS, rate limiting, observability dashboards
+- SEO & Analytics: metadata, sitemap, Lighthouse checks, privacy-aware tracking
