@@ -2,6 +2,9 @@
   <h1>Mahmoud Ayman</h1>
   <p><strong>AI/ML & Computer Vision</strong> · Communications & Electronics Engineering</p>
   <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1200&color=0A66C2&center=true&vCenter=true&width=600&lines=Production-grade+AI+Systems;Computer+Vision+%26+NLP;Fast%2C+measurable+business+impact" alt="Typing headline" />
+  </p>
+  <p>
     <img src="https://img.shields.io/badge/AI%2FML-0B132B?style=flat-square&logo=openai&logoColor=white" alt="AI/ML" />
     <img src="https://img.shields.io/badge/Computer%20Vision-1C2541?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision" />
     <img src="https://img.shields.io/badge/NLP-5A189A?style=flat-square&logo=huggingface&logoColor=white" alt="NLP" />
@@ -21,6 +24,13 @@ I design and deliver AI systems that convert visual and textual data into measur
 
 • 100+ clients served · Multiple AI solutions shipped end‑to‑end · Egypt‑based, working globally
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Accuracy-95%25%2B-success" alt="Accuracy" />
+  <img src="https://img.shields.io/badge/Latency-%3C50ms-informational" alt="Latency" />
+  <img src="https://img.shields.io/badge/Clients-100%2B-0ea5e9" alt="Clients" />
+  <img src="https://img.shields.io/badge/Solutions-Shipped-blueviolet" alt="Solutions" />
+</p>
+
 ### Expertise
 - Computer Vision: detection, segmentation, OCR, tracking, quality inspection
 - NLP: classification, NER, summarization, RAG with LLMs
@@ -28,16 +38,19 @@ I design and deliver AI systems that convert visual and textual data into measur
 - Data Science & MLOps: prototyping, experiment tracking, packaging, deployment
 
 ### Stack
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="36" height="36" alt="OpenCV" /></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="36" height="36" alt="scikit-learn" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-</p>
+<details>
+  <summary><strong>View Tech Stack</strong></summary>
+  <p align="left">
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
+    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="36" height="36" alt="OpenCV" /></a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="36" height="36" alt="scikit-learn" /></a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" /></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+  </p>
+</details>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mahmoud-aymann&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
@@ -63,21 +76,31 @@ I design and deliver AI systems that convert visual and textual data into measur
 - Execution style: fast iterations, clear communication, impact focus
 
 ### Featured Repository: Blood Cell Prediction
-- Repository: https://github.com/mahmoud-aymann/blood_cell_prediction
-- Live Demo: https://web-production-4a424.up.railway.app/
-- Summary: End‑to‑end CV app for blood cell classification with web UI, API, and deployable Docker image.
-- Tech: PyTorch, Flask, OpenCV, scikit-learn, Docker, Railway
-- Highlights:
-  - Reproducible training pipeline (configs, seed control, versioned datasets)
-  - Strong baselines + augmentation strategies; clear metrics and validation splits
-  - Exportable inference (TorchScript/ONNX-ready) and FastAPI serving example
-  - Well-documented notebooks and results for quick onboarding
-
-<p align="left">
-  <a href="https://github.com/mahmoud-aymann/blood_cell_prediction" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/stars/mahmoud-aymann/blood_cell_prediction?style=social" alt="Stars" /></a>
+<p>
+  <a href="https://web-production-4a424.up.railway.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Live%20Demo-Try%20Now-brightgreen.svg" alt="Live Demo" /></a>
+  <a href="https://github.com/mahmoud-aymann/blood_cell_prediction" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-Repository-black.svg" alt="GitHub" /></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg" alt="Python" /></a>
+  <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-3.0%2B-green.svg" alt="Flask" /></a>
+  <a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PyTorch-2.1%2B-red.svg" alt="PyTorch" /></a>
   <a href="https://github.com/mahmoud-aymann/blood_cell_prediction/commits/main" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/last-commit/mahmoud-aymann/blood_cell_prediction?color=0A66C2" alt="Last Commit" /></a>
-  <a href="https://web-production-4a424.up.railway.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Live%20Demo-Railway-0A66C2" alt="Live Demo" /></a>
 </p>
+
+- End‑to‑end CV app for blood cell classification (web UI + REST API + Docker deploy).
+- 95%+ accuracy on test set; 8 classes; sub‑50ms real‑time inference; privacy‑first (in‑memory processing).
+- Tech: PyTorch, Flask, OpenCV, scikit‑learn, Docker, Railway.
+- Features: drag‑and‑drop UI, confidence scores, robust error handling, notebooks, one‑click deploy.
+
+Quick links: Live demo: https://web-production-4a424.up.railway.app/ · Repo: https://github.com/mahmoud-aymann/blood_cell_prediction
+
+<details>
+  <summary><strong>Show technical highlights</strong></summary>
+  <ul>
+    <li>Reproducible training pipeline (configs, seed control, versioned datasets)</li>
+    <li>Baseline models + augmentation strategies; clear metrics and validation splits</li>
+    <li>Exportable inference (TorchScript/ONNX-ready) and serving example</li>
+    <li>Deployment: Docker image; Railway one-click template</li>
+  </ul>
+</details>
 
 ### Enterprise-Ready Delivery
 - Security-first: secure data handling, private endpoints, access controls
