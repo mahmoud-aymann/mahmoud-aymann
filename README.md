@@ -155,8 +155,21 @@ Quick links: Live demo: https://web-production-4a424.up.railway.app/ · Repo: ht
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-aymann&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-aymann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-aymann&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-aymann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&exclude_repo=github-readme-stats" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=mahmoud-aymann&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud-aymann&theme=github-compact&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Activity" alt="Activity Graph" />
+</p>
+
+### ⏱️ Coding Time
+<p align="center">
+  <img src="https://wakatime.com/badge/user/@mahmoud_aymann.svg?style=for-the-badge" alt="WakaTime" />
 </p>
 
 
@@ -219,9 +232,14 @@ Quick links: Live demo: https://web-production-4a424.up.railway.app/ · Repo: ht
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td>
       <a href="https://cars-oil.com/" target="_blank"><strong>Cars Oil</strong></a><br/>
       Automotive maintenance & oil services<br/>
+      <img src="https://img.shields.io/badge/HTML-orange" /> <img src="https://img.shields.io/badge/CSS-blue" /> <img src="https://img.shields.io/badge/JS-yellow" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3" />
+    </td>
+    <td>
+      <a href="https://reelsmedia.net/" target="_blank"><strong>Reels Media</strong></a><br/>
+      Professional media production & video services showcase<br/>
       <img src="https://img.shields.io/badge/HTML-orange" /> <img src="https://img.shields.io/badge/CSS-blue" /> <img src="https://img.shields.io/badge/JS-yellow" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3" />
     </td>
   </tr>
