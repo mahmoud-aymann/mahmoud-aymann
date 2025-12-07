@@ -1,5 +1,5 @@
-   <div align="center">                           
-  <h1>Mahmoud Ayman</h1>                            
+<div align="center">                           
+  <h1>👋 Hi, I'm Mahmoud Ayman</h1>                            
   <p><strong>AI/ML & Computer Vision</strong> · Communications & Electronics Engineering</p>                                          
   <p>                
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1200&color=0A66C2&center=true&vCenter=true&width=600&lines=Production-grade+AI+Systems;Computer+Vision+%26+NLP;Fast%2C+measurable+business+impact" alt="Typing headline" />   
@@ -21,7 +21,7 @@
 
 ---
 
-I design and deliver AI systems that convert visual and textual data into measurable business outcomes. Currently pursuing an advanced AI/ML diploma (NLP, CV, LLMs, Generative AI).
+> I design and deliver AI systems that convert visual and textual data into measurable business outcomes. Currently pursuing an advanced AI/ML diploma (NLP, CV, LLMs, Generative AI).
 
 **• 100+ clients served** (majority web‑based AI apps) · **Multiple solutions shipped** end‑to‑end · **Egypt‑based**, working globally
 
@@ -52,9 +52,9 @@ I design and deliver AI systems that convert visual and textual data into measur
 - **LLMs & Generative AI**: prompt engineering, fine‑tuning, evaluation
 - **Data Science & MLOps**: prototyping, experiment tracking, packaging, deployment
 
-### Stack
+### 🛠️ Stack
 <details>
-  <summary><strong>View Tech Stack</strong></summary>
+  <summary><strong>🔽 View Tech Stack</strong></summary>
   <p align="left">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
@@ -72,7 +72,7 @@ I design and deliver AI systems that convert visual and textual data into measur
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud-aymann&theme=github-compact&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud-aymann&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ### 👁️ Computer Vision Focus
@@ -102,21 +102,20 @@ I design and deliver AI systems that convert visual and textual data into measur
   <a href="https://github.com/mahmoud-aymann/blood_cell_prediction/commits/main" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/last-commit/mahmoud-aymann/blood_cell_prediction?color=0A66C2" alt="Last Commit" /></a>
 </p>
 
-- End‑to‑end CV app for blood cell classification (web UI + REST API + Docker deploy).
-- 95%+ accuracy on test set; 8 classes; sub‑50ms real‑time inference; privacy‑first (in‑memory processing).
-- Tech: PyTorch, Flask, OpenCV, scikit‑learn, Docker, Railway.
-- Features: drag‑and‑drop UI, confidence scores, robust error handling, notebooks, one‑click deploy.
+- **End‑to‑end CV app** for blood cell classification (web UI + REST API + Docker deploy)
+- **95%+ accuracy** on test set; 8 classes; sub‑50ms real‑time inference; privacy‑first (in‑memory processing)
+- **Tech**: PyTorch, Flask, OpenCV, scikit‑learn, Docker, Railway
+- **Features**: drag‑and‑drop UI, confidence scores, robust error handling, notebooks, one‑click deploy
 
-Quick links: Live demo: https://web-production-4a424.up.railway.app/ · Repo: https://github.com/mahmoud-aymann/blood_cell_prediction
+**Quick links**: [Live Demo](https://web-production-4a424.up.railway.app/) · [Repository](https://github.com/mahmoud-aymann/blood_cell_prediction)
 
 <details>
-  <summary><strong>Show technical highlights</strong></summary>
-  <ul>
-    <li>Reproducible training pipeline (configs, seed control, versioned datasets)</li>
-    <li>Baseline models + augmentation strategies; clear metrics and validation splits</li>
-    <li>Exportable inference (TorchScript/ONNX-ready) and serving example</li>
-    <li>Deployment: Docker image; Railway one-click template</li>
-  </ul>
+  <summary><strong>🔽 Show technical highlights</strong></summary>
+  
+  - **Reproducible training pipeline** (configs, seed control, versioned datasets)
+  - **Baseline models + augmentation strategies**; clear metrics and validation splits
+  - **Exportable inference** (TorchScript/ONNX-ready) and serving example
+  - **Deployment**: Docker image; Railway one-click template
 </details>
 
 ### 🚀 Enterprise-Ready Delivery
@@ -167,13 +166,15 @@ Quick links: Live demo: https://web-production-4a424.up.railway.app/ · Repo: ht
 </p>
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=mahmoud-aymann&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-aymann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-aymann&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-aymann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.demolab.com/?user=mahmoud-aymann&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+> 💡 **Note**: If stats don't appear, please refresh the page or wait a moment for GitHub to load the images.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud-aymann&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
