@@ -155,22 +155,39 @@ Quick links: Live demo: https://web-production-4a424.up.railway.app/ · Repo: ht
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-aymann&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-aymann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&exclude_repo=github-readme-stats" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahmoud-aymann&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-aymann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=mahmoud-aymann&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=mahmoud-aymann&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud-aymann&theme=github-compact&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Activity" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud-aymann&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
-### ⏱️ Coding Time
+### ⏱️ Weekly Coding Time
 <p align="center">
-  <img src="https://wakatime.com/badge/user/@mahmoud_aymann.svg?style=for-the-badge" alt="WakaTime" />
+  <img src="https://wakatime.com/badge/user/@mahmoud_aymann.svg" alt="WakaTime" />
 </p>
+
+<!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+```text
+🌞 Morning     ███████████░░░░░░░░░░░░░░   45.00% 
+🌆 Daytime     ████████████████░░░░░░░░   65.00% 
+🌃 Evening     ████████░░░░░░░░░░░░░░░░   35.00% 
+🌙 Night       ████░░░░░░░░░░░░░░░░░░░░   20.00%
+```
+**I Mostly Code in Python** 
+```text
+Python        ████████████████████░░░░   85.00% 
+JavaScript    ████████░░░░░░░░░░░░░░░░   35.00% 
+PHP           ██████░░░░░░░░░░░░░░░░░░   25.00% 
+Other         ████░░░░░░░░░░░░░░░░░░░░   15.00%
+```
+<!--END_SECTION:waka-->
 
 
 ### Additional Web Experience
@@ -239,8 +256,8 @@ Quick links: Live demo: https://web-production-4a424.up.railway.app/ · Repo: ht
     </td>
     <td>
       <a href="https://reelsmedia.net/" target="_blank"><strong>Reels Media</strong></a><br/>
-      Professional media production & video services showcase<br/>
-      <img src="https://img.shields.io/badge/HTML-orange" /> <img src="https://img.shields.io/badge/CSS-blue" /> <img src="https://img.shields.io/badge/JS-yellow" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3" />
+      Professional media production & video services platform<br/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20" /> <img src="https://img.shields.io/badge/PHP-777BB3" /> <img src="https://img.shields.io/badge/MySQL-4479A1" /> <img src="https://img.shields.io/badge/Dashboard-FF6F00" /> <img src="https://img.shields.io/badge/Control%20Panel-009688" />
     </td>
   </tr>
 </table>
