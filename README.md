@@ -23,7 +23,7 @@
 
 I design and deliver AI systems that convert visual and textual data into measurable business outcomes. Currently pursuing an advanced AI/ML diploma (NLP, CV, LLMs, Generative AI).
 
-• 100+ clients served (majority web‑based AI apps) · Multiple solutions shipped end‑to‑end · Egypt‑based, working globally
+**• 100+ clients served** (majority web‑based AI apps) · **Multiple solutions shipped** end‑to‑end · **Egypt‑based**, working globally
 
 <p align="center">
   <img src="https://img.shields.io/badge/Accuracy-95%25%2B-success" alt="Accuracy" />
@@ -46,10 +46,11 @@ I design and deliver AI systems that convert visual and textual data into measur
 </details>
 
 ### 🎯 Expertise
-- Computer Vision: detection, segmentation, OCR, tracking, quality inspection
-- NLP: classification, NER, summarization, RAG with LLMs
-- LLMs & Generative AI: prompt engineering, fine‑tuning, evaluation
-- Data Science & MLOps: prototyping, experiment tracking, packaging, deployment
+
+- **Computer Vision**: detection, segmentation, OCR, tracking, quality inspection
+- **NLP**: classification, NER, summarization, RAG with LLMs
+- **LLMs & Generative AI**: prompt engineering, fine‑tuning, evaluation
+- **Data Science & MLOps**: prototyping, experiment tracking, packaging, deployment
 
 ### Stack
 <details>
@@ -84,11 +85,12 @@ I design and deliver AI systems that convert visual and textual data into measur
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
-### Highlights
-- Co‑manage a boutique practice delivering AI and data services
-- End‑to‑end product delivery: discovery → MVP → deployment → monitoring
-- Execution style: fast iterations, clear communication, impact focus
- - Full‑stack web AI delivery: from zero → UI + API → hosting (e.g., Hostinger)
+### ✨ Highlights
+
+- **Co‑manage** a boutique practice delivering AI and data services
+- **End‑to‑end product delivery**: discovery → MVP → deployment → monitoring
+- **Execution style**: fast iterations, clear communication, impact focus
+- **Full‑stack web AI delivery**: from zero → UI + API → hosting (e.g., Hostinger)
 
 ### 🔬 Featured Repository: Blood Cell Prediction
 <p>
@@ -118,23 +120,26 @@ Quick links: Live demo: https://web-production-4a424.up.railway.app/ · Repo: ht
 </details>
 
 ### 🚀 Enterprise-Ready Delivery
-- Security-first: secure data handling, private endpoints, access controls
-- Flexible deployment: on‑prem, VPC, or managed cloud with IaC
-- Observability: experiment tracking, versioning, metrics, and dashboards
-- Compliance-minded: documentation, reproducibility, auditability by default
-- Clear engagement: milestones, SLAs, and transparent reporting
+
+- **Security-first**: secure data handling, private endpoints, access controls
+- **Flexible deployment**: on‑prem, VPC, or managed cloud with IaC
+- **Observability**: experiment tracking, versioning, metrics, and dashboards
+- **Compliance-minded**: documentation, reproducibility, auditability by default
+- **Clear engagement**: milestones, SLAs, and transparent reporting
 
 ### 🎓 Education
-- B.Sc. Communications & Electronics Engineering (in progress)
-- Advanced Diploma in AI & Machine Learning (NLP, CV, LLMs, Generative AI)
+
+- **B.Sc. Communications & Electronics Engineering** (in progress)
+- **Advanced Diploma in AI & Machine Learning** (NLP, CV, LLMs, Generative AI)
 
 ---
 
 ### 📧 Contact
-- 🌍 Based in Egypt
+
+- 🌍 **Based in Egypt**
 - ✉️ [mahmoudaymann153@gmail.com](mailto:mahmoudaymann153@gmail.com)
 - ✉️ [info@mahmoudayman.me](mailto:info@mahmoudayman.me)
-- 🌐 Portfolio: [mahmoudayman.me](https://mahmoudayman.me)
+- 🌐 **Portfolio**: [mahmoudayman.me](https://mahmoudayman.me)
 
 ### 🔗 Socials
 <p align="left">
@@ -162,8 +167,8 @@ Quick links: Live demo: https://web-production-4a424.up.railway.app/ · Repo: ht
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahmoud-aymann&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud-aymann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=mahmoud-aymann&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-aymann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -180,12 +185,13 @@ Quick links: Live demo: https://web-production-4a424.up.railway.app/ · Repo: ht
 ---
 
 ### 💻 Additional Web Experience
-- End-to-end web delivery: requirements → design → UI + API → CI/CD → hosting
-- Frontend: HTML5/CSS3/JavaScript, responsive UX, component-driven UIs
-- Backend: Flask/FastAPI, RESTful APIs, secure session and file handling
-- Deployment/Hosting: Hostinger, Railway, Vercel; Dockerized builds and templates
-- Performance & Security: CDN, caching, HTTPS, rate limiting, observability dashboards
-- SEO & Analytics: metadata, sitemap, Lighthouse checks, privacy-aware tracking
+
+- **End-to-end web delivery**: requirements → design → UI + API → CI/CD → hosting
+- **Frontend**: HTML5/CSS3/JavaScript, responsive UX, component-driven UIs
+- **Backend**: Flask/FastAPI, RESTful APIs, secure session and file handling
+- **Deployment/Hosting**: Hostinger, Railway, Vercel; Dockerized builds and templates
+- **Performance & Security**: CDN, caching, HTTPS, rate limiting, observability dashboards
+- **SEO & Analytics**: metadata, sitemap, Lighthouse checks, privacy-aware tracking
 
 ### 🌐 Recent Web Projects
 <table>
