@@ -155,12 +155,13 @@ Quick links: Live demo: https://web-production-4a424.up.railway.app/ · Repo: ht
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahmoud-aymann&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-aymann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-aymann&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-aymann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=mahmoud-aymann&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mahmoud-aymann&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -169,7 +170,9 @@ Quick links: Live demo: https://web-production-4a424.up.railway.app/ · Repo: ht
 
 ### ⏱️ Weekly Coding Time
 <p align="center">
-  <img src="https://wakatime.com/badge/user/@mahmoud_aymann.svg" alt="WakaTime" />
+  <a href="https://wakatime.com/@mahmoud_aymann" target="_blank" rel="noreferrer">
+    <img src="https://wakatime.com/badge/user/@mahmoud_aymann.svg" alt="Total time coded since Aug 1 2024" />
+  </a>
 </p>
 
 <!--START_SECTION:waka-->
