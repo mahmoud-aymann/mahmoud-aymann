@@ -15,6 +15,7 @@
     <a href="https://www.linkedin.com/in/mahmoud-aymann/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:mahmoudaymann153@gmail.com"><img src="https://img.shields.io/badge/Email-3B82F6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/mahmoud-aymann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.upwork.com/freelancers/~015cac7f056de6dbc2" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" /></a>
   </p>
 </div>
 
@@ -147,6 +148,9 @@ Quick links: Live demo: https://web-production-4a424.up.railway.app/ · Repo: ht
   <a href="http://www.medium.com/@mahmoudayman1" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
   </a>
+  <a href="https://www.upwork.com/freelancers/~015cac7f056de6dbc2" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/upwork.svg" width="32" height="32" />
+  </a>
 </p>
 
 ### GitHub Stats
@@ -155,8 +159,8 @@ Quick links: Live demo: https://web-production-4a424.up.railway.app/ · Repo: ht
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-aymann&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-aymann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&exclude_repo=github-readme-stats" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahmoud-aymann&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-aymann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
