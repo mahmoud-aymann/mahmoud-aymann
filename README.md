@@ -155,9 +155,8 @@ Quick links: Live demo: https://web-production-4a424.up.railway.app/ · Repo: ht
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-aymann&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-aymann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahmoud-aymann&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-aymann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -171,7 +170,7 @@ Quick links: Live demo: https://web-production-4a424.up.railway.app/ · Repo: ht
 ### ⏱️ Weekly Coding Time
 <p align="center">
   <a href="https://wakatime.com/@mahmoud_aymann" target="_blank" rel="noreferrer">
-    <img src="https://wakatime.com/badge/user/@mahmoud_aymann.svg" alt="Total time coded since Aug 1 2024" />
+    <img src="https://wakatime.com/badge/user/@mahmoud_aymann.svg" alt="WakaTime" />
   </a>
 </p>
 
