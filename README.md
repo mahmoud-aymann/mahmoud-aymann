@@ -159,8 +159,8 @@ Quick links: Live demo: https://web-production-4a424.up.railway.app/ · Repo: ht
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahmoud-aymann&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-aymann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.zcy.dev/api?username=mahmoud-aymann&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=mahmoud-aymann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
