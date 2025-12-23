@@ -3,7 +3,7 @@
   <p><strong>AI/ML & Computer Vision</strong> · Communications & Electronics Engineering</p>                                                     
   <p>                    
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1200&color=0A66C2&center=true&vCenter=true&width=600&lines=Production-grade+AI+Systems;Computer+Vision+%26+NLP;Fast%2C+measurable+business+impact" alt="Typing headline" />   
-  </p> 
+  </p>   
   <p>
     <img src="https://img.shields.io/badge/AI%2FML-0B132B?style=flat-square&logo=openai&logoColor=white" alt="AI/ML" />
     <img src="https://img.shields.io/badge/Computer%20Vision-1C2541?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision" />
