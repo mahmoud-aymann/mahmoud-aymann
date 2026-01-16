@@ -16,7 +16,7 @@
     <a href="mailto:mahmoudaymann153@gmail.com"><img src="https://img.shields.io/badge/Email-3B82F6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/mahmoud-aymann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
-</div>
+</div>    
 
 ---
 
