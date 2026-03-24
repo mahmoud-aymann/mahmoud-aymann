@@ -195,11 +195,11 @@ Quick links: Live demo: https://web-production-4a424.up.railway.app/ · Repo: ht
     </td>
   </tr>
   <tr>
-    <td>
+    <!-- <td>
       <a href="https://naqaaalriyadh.com/" target="_blank"><strong>Naqaa Al Riyadh</strong></a><br/>
       Cleaning services with booking<br/>
       <img src="https://img.shields.io/badge/HTML-orange" /> <img src="https://img.shields.io/badge/CSS-blue" /> <img src="https://img.shields.io/badge/JS-yellow" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3" />
-    </td>
+    </td> -->
     <td>
       <a href="https://dazzle-architect.com/" target="_blank"><strong>Dazzle Architect</strong></a><br/>
       Architecture portfolio and galleries<br/>
