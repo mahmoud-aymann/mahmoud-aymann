@@ -85,8 +85,6 @@ right AI solution, and deliver it as a polished, deployed product.
     </td>
   </tr>
 </table>
-
----
 ---
 
 ## 🛠️ Tech Stack
