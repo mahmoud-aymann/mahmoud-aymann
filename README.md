@@ -44,27 +44,27 @@ right AI solution, and deliver it as a polished, deployed product.
   <tr>
     <td valign="top" width="50%">
 
-### 🔍 Computer Vision
-Detection · Segmentation · OCR
-Tracking · Quality Inspection
-Real-time inference pipelines
+      <h3>🔍 Computer Vision</h3>
+      Detection · Segmentation · OCR<br>
+      Tracking · Quality Inspection<br>
+      Real-time inference pipelines
 
-### 💬 NLP & LLMs
-Text Classification · NER · Summarization
-RAG pipelines · Fine-tuning · Evaluation
-Prompt Engineering · Generative AI
+      <h3>💬 NLP & LLMs</h3>
+      Text Classification · NER · Summarization<br>
+      RAG pipelines · Fine-tuning · Evaluation<br>
+      Prompt Engineering · Generative AI
 
+      <h3>⚙️ MLOps & Deployment</h3>
+      Docker · CI/CD · Experiment Tracking<br>
+      On-prem · VPC · Managed Cloud<br>
+      Model versioning · Observability
 
-### ⚙️ MLOps & Deployment
-Docker · CI/CD · Experiment Tracking
-On-prem · VPC · Managed Cloud
-Model versioning · Observability
+      <h3>🌐 Full-Stack AI Delivery</h3>
+      REST APIs (FastAPI · Flask)<br>
+      Web UIs · Secure endpoints<br>
+      Hostinger · Railway · Vercel
 
-### 🌐 Full-Stack AI Delivery
-REST APIs (FastAPI · Flask)
-Web UIs · Secure endpoints
-Hostinger · Railway · Vercel
-
+    </td>
   </tr>
 </table>
 
