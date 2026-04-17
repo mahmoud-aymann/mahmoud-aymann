@@ -63,6 +63,17 @@ Text Classification · NER · Summarization
 RAG pipelines · Fine-tuning · Evaluation  
 Prompt Engineering · Generative AI  
 
+🧠 LLM Systems
+RAG Pipelines · Vector Databases (FAISS · Pinecone · Weaviate)  
+Embeddings · Semantic Search · Chunking Strategies  
+Context Management · Tool Calling · Function Calling  
+
+⚡ LLM Apps & Deployment
+LangChain · LlamaIndex  
+FastAPI-based LLM APIs  
+Guardrails · Rate Limiting · Caching  
+Production-ready AI Agents & Workflows  
+
 ### 🌐 Full-Stack AI Delivery
 REST APIs (FastAPI · Flask)  
 Web UIs · Secure endpoints  
