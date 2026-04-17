@@ -141,7 +141,6 @@ right AI solution, and deliver it as a polished, deployed product.
 
 > 🌍 **Regional Impact, Global Standards** — Delivering enterprise-grade solutions to leading organizations across Saudi Arabia, UAE, and the MENA ecosystem.
 </details>
----
 
 ## 📊 GitHub Stats
 
