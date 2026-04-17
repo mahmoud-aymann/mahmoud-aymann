@@ -37,54 +37,34 @@ right AI solution, and deliver it as a polished, deployed product.
 <br clear="right"/>
 
 ---
-## ⚡ Core Expertise
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🔍 Computer Vision</h3>
-      <ul>
-        <li>Detection, Segmentation & OCR</li>
-        <li>Object Tracking & Quality Inspection</li>
-        <li>Real-time Inference Pipelines</li>
-      </ul>
-      <h3>⚙️ MLOps & Deployment</h3>
-      <ul>
-        <li>Docker Containerization & CI/CD Pipelines</li>
-        <li>On-premises, VPC & Managed Cloud Solutions</li>
-        <li>Model Versioning & Production Observability</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>💬 NLP & Language Models</h3>
-      <ul>
-        <li>Text Classification, NER & Summarization</li>
-        <li>RAG Pipelines, Fine-tuning & Evaluation</li>
-        <li>Advanced Prompt Engineering & Generative AI</li>
-      </ul>
-      <h3>🧠 LLM Systems Architecture</h3>
-      <ul>
-        <li>RAG Implementation with Vector Databases</li>
-        <li>FAISS, Pinecone, Weaviate</li>
-        <li>Semantic Search & Intelligent Chunking Strategies</li>
-        <li>Context Management & Function Calling</li>
-      </ul>
-      <h3>⚡ Production LLM Deployment</h3>
-      <ul>
-        <li>LangChain & LlamaIndex Frameworks</li>
-        <li>FastAPI-based LLM APIs & Microservices</li>
-        <li>Guardrails, Rate Limiting & Smart Caching</li>
-        <li>Production-ready AI Agents & Workflows</li>
-      </ul>
-      <h3>🌐 End-to-End AI Solutions</h3>
-      <ul>
-        <li>REST APIs (FastAPI, Flask)</li>
-        <li>Modern Web UIs & Secure Endpoints</li>
-        <li>Cloud Hosting (Hostinger, Railway, Vercel)</li>
-      </ul>
-    </td>
-  </tr>
+<h2>Core Expertise</h2>
+<table style="width:100%; border-collapse:collapse;">
+    <tr>
+        <th style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Expertise Area</th>
+        <th style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Details</th>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #dddddd; padding: 8px;">Software Development</td>
+        <td style="border: 1px solid #dddddd; padding: 8px;">
+            <ul>
+                <li>Full-stack Development</li>
+                <li>API Development</li>
+                <li>Responsive Design</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #dddddd; padding: 8px;">Data Analysis</td>
+        <td style="border: 1px solid #dddddd; padding: 8px;">
+            <ul>
+                <li>Data Visualization</li>
+                <li>Statistical Modeling</li>
+                <li>Database Management</li>
+            </ul>
+        </td>
+    </tr>
 </table>
+
 ---
 
 ## 🛠️ Tech Stack
