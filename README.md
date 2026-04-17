@@ -39,49 +39,9 @@ right AI solution, and deliver it as a polished, deployed product.
 ---
 ## ⚡ Core Expertise
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
-
-<div>
-
-### 🔍 Computer Vision
-Detection, Segmentation & OCR  
-Object Tracking & Quality Inspection  
-Real-time Inference Pipelines
-
-### ⚙️ MLOps & Deployment
-Docker Containerization & CI/CD Pipelines  
-On-premises, VPC & Managed Cloud Solutions  
-Model Versioning & Production Observability
-
-</div>
-
-<div>
-
-### 💬 NLP & Language Models
-Text Classification, NER & Summarization  
-RAG Pipelines, Fine-tuning & Evaluation  
-Advanced Prompt Engineering & Generative AI
-
-### 🧠 LLM Systems Architecture
-RAG Implementation with Vector Databases  
-(FAISS, Pinecone, Weaviate)  
-Semantic Search & Intelligent Chunking Strategies  
-Context Management & Function Calling
-
-### ⚡ Production LLM Deployment
-LangChain & LlamaIndex Frameworks  
-FastAPI-based LLM APIs & Microservices  
-Guardrails, Rate Limiting & Smart Caching  
-Production-ready AI Agents & Workflows
-
-### 🌐 End-to-End AI Solutions
-REST APIs (FastAPI, Flask)  
-Modern Web UIs & Secure Endpoints  
-Cloud Hosting (Hostinger, Railway, Vercel)
-
-</div>
-
-</div>
+| Left | Right |
+|------|-------|
+| **🔍 Computer Vision**<br/>Detection, Segmentation & OCR<br/>Object Tracking & Quality Inspection<br/>Real-time Inference Pipelines<br/><br/>**⚙️ MLOps & Deployment**<br/>Docker Containerization & CI/CD Pipelines<br/>On-premises, VPC & Managed Cloud Solutions<br/>Model Versioning & Production Observability | **💬 NLP & Language Models**<br/>Text Classification, NER & Summarization<br/>RAG Pipelines, Fine-tuning & Evaluation<br/>Advanced Prompt Engineering & Generative AI<br/><br/>**🧠 LLM Systems Architecture**<br/>RAG Implementation with Vector Databases<br/>(FAISS, Pinecone, Weaviate)<br/>Semantic Search & Intelligent Chunking Strategies<br/>Context Management & Function Calling<br/><br/>**⚡ Production LLM Deployment**<br/>LangChain & LlamaIndex Frameworks<br/>FastAPI-based LLM APIs & Microservices<br/>Guardrails, Rate Limiting & Smart Caching<br/>Production-ready AI Agents & Workflows<br/><br/>**🌐 End-to-End AI Solutions**<br/>REST APIs (FastAPI, Flask)<br/>Modern Web UIs & Secure Endpoints<br/>Cloud Hosting (Hostinger, Railway, Vercel) |
 ---
 
 ## 🛠️ Tech Stack
