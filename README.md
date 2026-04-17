@@ -120,25 +120,28 @@ right AI solution, and deliver it as a polished, deployed product.
 
 ---
 
-## 🌐 Selected Client Web Projects 
+## 🌐 Selected Client Web Projects
+
+<details>
+<summary><b>🏢 Featured Projects (12 Clients)</b></summary>
 
 | Project | Description | Stack |
 |---|---|---|
-| [**UQAB**](https://uqab.io/) | Translating cutting-edge innovation into meaningful business value. A strategic partner for end-to-end digital transformation powered by elite engineers and consultants. | Enterprise · AI · Consulting |
-| [**Nurvia**](#) | Modern digital platform delivering scalable web solutions with performance-focused architecture. | Web · UI/UX · Performance |
-| [**HNH**](#) | Business-focused website with strong branding and optimized user experience. | Web · Branding |
-| [**Smart Hands**](https://smarthands.sa) | Professional services platform with scalable backend architecture and client management workflows. | Laravel · PHP · MySQL |
-| [**Luxe Link Software**](#) | Software company (New Mexico) delivering Web, Mobile & AI solutions with enterprise-grade security and 24/7 support. | Web · Mobile · AI · Cloud |
-| [**Arabgulf Electronic Trading**](#) | Premium electronics e-commerce platform in UAE with secure payments and nationwide delivery. | E-commerce · HTML · CSS · JS |
-| [**Wise Software**](#) | E-commerce platform for tech services and digital products with modern UI and structured catalog system. | HTML · CSS · JavaScript |
-| [**Mudun SA**](https://mudunsa.com/) | Urban development platform with clean design and structured content delivery. | HTML · CSS · JS |
+| [**UQAB**](https://uqab.io/) | End-to-end digital transformation · Elite engineers & consultants | Enterprise · AI · Consulting |
+| [**Smart Hands**](https://smarthands.sa) | Professional services platform · Scalable backend architecture | Laravel · PHP · MySQL |
+| [**Mudun SA**](https://mudunsa.com/) | Urban development platform · Clean design & content delivery | HTML · CSS · JS |
 | [**Dazzle Architect**](https://dazzle-architect.com/) | Architecture & Design | HTML · CSS · JS · Bootstrap |
-| [**Burj Al Enjaz**](https://burj-alenjaz.com/) | Real Estate | HTML · CSS · JS · Bootstrap |
-| [**Mudun SA**](https://mudunsa.com/) | Urban Development | HTML · CSS · JS · Bootstrap |
+| [**Burj Al Enjaz**](https://burj-alenjaz.com/) | Real Estate Development | HTML · CSS · JS · Bootstrap |
 | [**Cars Oil**](https://cars-oil.com/) | Automotive Services | HTML · CSS · JS · Bootstrap |
+| [**Nurvia**](https://nurviaconsultation.com/) | Modern digital platform · Scalable web solutions | Web · UI/UX · Performance |
+| [**HNH**](https://hnhksa.com/) | Business-focused website · Strong branding | Web · Branding |
+| [**Luxe Link Software**](http://luxelinksoftware.com/) | Web, Mobile & AI solutions · Enterprise security | Web · Mobile · AI · Cloud |
+| [**Arabgulf Electronic Trading**](https://arabgulfae.com/) | Premium e-commerce platform · UAE based | E-commerce · HTML · CSS · JS |
+| [**Wise Software**](https://wisesoftware-sa.com/) | Tech services e-commerce · Modern UI | HTML · CSS · JavaScript |
 
-> Clients across **Saudi Arabia** and the MENA region — services, logistics, real estate, and professional sectors.
+> 📍 **Clients across Saudi Arabia & MENA region** — services, logistics, real estate, professional sectors
 
+</details>
 ---
 
 ## 📊 GitHub Stats
