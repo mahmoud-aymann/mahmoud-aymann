@@ -16,18 +16,25 @@
 
 ---
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-aymann&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="340" />
+
 ## 👨‍💻 About Me
 
-AI/ML Engineer building production-grade systems in  
-**Computer Vision**, **NLP**, and **LLM-powered applications**.
+I'm an **AI/ML Engineer** from Egypt specializing in building
+**Computer Vision**, **NLP**, and **LLM-powered systems** that go
+beyond notebooks — all the way to production.
 
-I turn business problems into deployed AI products — from idea to production.
+My work sits at the intersection of deep learning research and
+real-world engineering: I take a business problem, architect the
+right AI solution, and deliver it as a polished, deployed product.
 
-- 🚀 **100+ clients** served (mostly web-based AI systems)  
-- 🎯 End-to-end delivery: discovery → MVP → deployment → monitoring  
-- 🌍 Egypt-based · working with clients **globally**  
-- 📚 B.Sc. Communications & Electronics Engineering *(in progress)*  
-- 🎓 Advanced Diploma — AI & ML (NLP, CV, LLMs, Generative AI)
+- 🚀 &nbsp;**100+ clients** served, majority web-based AI applications
+- 🎯 &nbsp;End-to-end delivery: discovery → MVP → deployment → monitoring
+- 🌍 &nbsp;Egypt-based · Working with clients **globally**
+- 📚 &nbsp;B.Sc. Communications & Electronics Engineering *(in progress)*
+- 🎓 &nbsp;Advanced Diploma — AI & ML: NLP, CV, LLMs, Generative AI
+
+<br clear="right"/>
 
 ---
 
@@ -38,27 +45,27 @@ I turn business problems into deployed AI products — from idea to production.
     <td valign="top" width="50%">
 
 ### 🔍 Computer Vision
-Detection · Segmentation · OCR  
-Tracking · Quality Inspection  
-Real-time inference pipelines  
+Detection · Segmentation · OCR
+Tracking · Quality Inspection
+Real-time inference pipelines
 
 ### 💬 NLP & LLMs
-Text Classification · NER · Summarization  
-RAG pipelines · Fine-tuning · Evaluation  
-Prompt Engineering · Generative AI  
+Text Classification · NER · Summarization
+RAG pipelines · Fine-tuning · Evaluation
+Prompt Engineering · Generative AI
 
     </td>
     <td valign="top" width="50%">
 
 ### ⚙️ MLOps & Deployment
-Docker · CI/CD · Experiment Tracking  
-On-prem · VPC · Managed Cloud  
-Model versioning · Observability  
+Docker · CI/CD · Experiment Tracking
+On-prem · VPC · Managed Cloud
+Model versioning · Observability
 
 ### 🌐 Full-Stack AI Delivery
-REST APIs (FastAPI · Flask)  
-Web UIs · Secure endpoints  
-Hostinger · Railway · Vercel  
+REST APIs (FastAPI · Flask)
+Web UIs · Secure endpoints
+Hostinger · Railway · Vercel
 
     </td>
   </tr>
@@ -72,7 +79,7 @@ Hostinger · Railway · Vercel
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,fastapi,flask,docker,git,html,css,js,mysql,linux&perline=7" />
 </p>
 
-**Also:** `YOLO` · `HuggingFace` · `LangChain` · `TorchScript` · `ONNX` · `scikit-learn` · `Railway` · `Vercel`
+**Also:** `YOLO` &nbsp;`HuggingFace` &nbsp;`LangChain` &nbsp;`TorchScript` &nbsp;`ONNX` &nbsp;`scikit-learn` &nbsp;`Railway` &nbsp;`Vercel`
 
 ---
 
@@ -86,17 +93,17 @@ Hostinger · Railway · Vercel
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.1%2B-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
 [![Last Commit](https://img.shields.io/github/last-commit/mahmoud-aymann/blood_cell_prediction?style=flat-square&color=0A66C2)](https://github.com/mahmoud-aymann/blood_cell_prediction/commits/main)
 
+```
+📊  95%+ Test Accuracy    ⚡  <50ms Inference    🔬  8 Cell Classes    🔒  Privacy-First
+```
 
-📊 95%+ Accuracy ⚡ <50ms Inference 🔬 8 Classes 🔒 Privacy-first
+**What makes it production-grade:**
 
-
-**Why it's production-grade:**
-
-- ✅ Drag-and-drop UI with real-time predictions  
-- ✅ REST API with secure in-memory processing  
-- ✅ Reproducible training pipeline (configs, seeds, versioning)  
-- ✅ ONNX / TorchScript export-ready  
-- ✅ Dockerized with one-click deployment  
+- ✅ Drag-and-drop web UI with real-time confidence scores
+- ✅ REST API with secure, in-memory processing — zero data stored
+- ✅ Reproducible training pipeline (seed control, versioned datasets, configs)
+- ✅ ONNX / TorchScript export-ready for edge deployment
+- ✅ Dockerized — one-click Railway deploy template
 
 **Stack:** `PyTorch` · `Flask` · `OpenCV` · `scikit-learn` · `Docker` · `Railway`
 
@@ -106,44 +113,44 @@ Hostinger · Railway · Vercel
 
 | Pillar | What you get |
 |---|---|
-| 🔐 Security | Secure data handling, private endpoints, access control |
-| ☁️ Deployment | On-prem, VPC, or managed cloud (IaC ready) |
-| 📈 Observability | Metrics, tracking, dashboards |
-| 📋 Reproducibility | Fully documented & auditable pipelines |
-| 🤝 Engagement | Clear milestones, SLAs, transparent reporting |
+| 🔐 **Security** | Secure data handling, private endpoints, access controls |
+| ☁️ **Deployment** | On-prem, VPC, or managed cloud — with IaC support |
+| 📈 **Observability** | Experiment tracking, model versioning, metrics dashboards |
+| 📋 **Reproducibility** | Full documentation and auditability by default |
+| 🤝 **Engagement** | Clear milestones, SLAs, and transparent reporting |
 
 ---
 
 ## 🌐 Selected Client Projects
 
-| Project | Industry | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| [Warda Print](https://wardaprint.com/) | E-commerce | HTML · CSS · JS · Bootstrap |
-| [Smart Hands](https://smarthands.sa) | Services | Laravel · PHP · MySQL |
-| [Secusys](https://secusyss.com/) | Security | HTML · CSS · JS |
-| [Cloud Logistic](https://cloud-logistic.com/) | Logistics | HTML · CSS · JS |
-| [Dazzle Architect](https://dazzle-architect.com/) | Architecture | HTML · CSS · JS |
-| [Burj Al Enjaz](https://burj-alenjaz.com/) | Real Estate | HTML · CSS · JS |
-| [Mudun SA](https://mudunsa.com/) | Urban Dev | HTML · CSS · JS |
-| [Cars Oil](https://cars-oil.com/) | Automotive | HTML · CSS · JS |
+| [**UQAB**](https://uqab.io/) | Translating cutting-edge innovation into meaningful business value. A strategic partner for end-to-end digital transformation powered by elite engineers and consultants. | Enterprise · AI · Consulting |
+| [**Nurvia**](#) | Modern digital platform delivering scalable web solutions with performance-focused architecture. | Web · UI/UX · Performance |
+| [**HNH**](#) | Business-focused website with strong branding and optimized user experience. | Web · Branding |
+| [**Smart Hands**](https://smarthands.sa) | Professional services platform with scalable backend architecture and client management workflows. | Laravel · PHP · MySQL |
+| [**Luxe Link Software**](#) | Software company (New Mexico) delivering Web, Mobile & AI solutions with enterprise-grade security and 24/7 support. | Web · Mobile · AI · Cloud |
+| [**Arabgulf Electronic Trading**](#) | Premium electronics e-commerce platform in UAE with secure payments and nationwide delivery. | E-commerce · HTML · CSS · JS |
+| [**Wise Software**](#) | E-commerce platform for tech services and digital products with modern UI and structured catalog system. | HTML · CSS · JavaScript |
+| [**Mudun SA**](https://mudunsa.com/) | Urban development platform with clean design and structured content delivery. | HTML · CSS · JS |
+| [**Dazzle Architect**](https://dazzle-architect.com/) | Architecture & Design | HTML · CSS · JS · Bootstrap |
+| [**Burj Al Enjaz**](https://burj-alenjaz.com/) | Real Estate | HTML · CSS · JS · Bootstrap |
+| [**Mudun SA**](https://mudunsa.com/) | Urban Development | HTML · CSS · JS · Bootstrap |
+| [**Cars Oil**](https://cars-oil.com/) | Automotive Services | HTML · CSS · JS · Bootstrap |
 
-> Clients across Saudi Arabia & MENA.
+> Clients across **Saudi Arabia** and the MENA region — services, logistics, real estate, and professional sectors.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-aymann&theme=github_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-aymann&theme=github_dark" alt="Profile Summary" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-aymann&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-aymann&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-aymann&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
@@ -163,7 +170,7 @@ Hostinger · Railway · Vercel
 
 <div align="center">
 
-*Open to freelance, collaborations, and full-time roles.*
+*Open to freelance projects, collaborations, and full-time opportunities.*
 
 </div>
 
