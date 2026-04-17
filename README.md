@@ -39,10 +39,33 @@ right AI solution, and deliver it as a polished, deployed product.
 ---
 ## ⚡ Core Expertise
 
-| | |
-|---|---|
-| **🔍 Computer Vision**<br/>Detection, Segmentation & OCR<br/>Object Tracking & Quality Inspection<br/>Real-time Inference Pipelines<br/><br/>**⚙️ MLOps & Deployment**<br/>Docker Containerization & CI/CD Pipelines<br/>On-premises, VPC & Managed Cloud Solutions<br/>Model Versioning & Production Observability | **💬 NLP & Language Models**<br/>Text Classification, NER & Summarization<br/>RAG Pipelines, Fine-tuning & Evaluation<br/>Advanced Prompt Engineering & Generative AI<br/><br/>**🧠 LLM Systems Architecture**<br/>RAG Implementation with Vector Databases<br/>(FAISS, Pinecone, Weaviate)<br/>Semantic Search & Intelligent Chunking Strategies<br/>Context Management & Function Calling<br/><br/>**⚡ Production LLM Deployment**<br/>LangChain & LlamaIndex Frameworks<br/>FastAPI-based LLM APIs & Microservices<br/>Guardrails, Rate Limiting & Smart Caching<br/>Production-ready AI Agents & Workflows<br/><br/>**🌐 End-to-End AI Solutions**<br/>REST APIs (FastAPI, Flask)<br/>Modern Web UIs & Secure Endpoints<br/>Cloud Hosting (Hostinger, Railway, Vercel) |
+### Computer Vision & MLOps
 
+| Computer Vision | MLOps & Deployment |
+|---|---|
+| Detection, Segmentation & OCR | Docker Containerization & CI/CD Pipelines |
+| Object Tracking & Quality Inspection | On-premises, VPC & Managed Cloud Solutions |
+| Real-time Inference Pipelines | Model Versioning & Production Observability |
+
+### NLP & Language Models
+
+| NLP & LLMs | LLM Systems Architecture |
+|---|---|
+| Text Classification, NER & Summarization | RAG Implementation with Vector Databases |
+| RAG Pipelines, Fine-tuning & Evaluation | (FAISS, Pinecone, Weaviate) |
+| Advanced Prompt Engineering & Generative AI | Semantic Search & Intelligent Chunking Strategies |
+| | Context Management & Function Calling |
+
+### LLM Deployment & End-to-End Solutions
+
+| Production LLM Deployment | End-to-End AI Solutions |
+|---|---|
+| LangChain & LlamaIndex Frameworks | REST APIs (FastAPI, Flask) |
+| FastAPI-based LLM APIs & Microservices | Modern Web UIs & Secure Endpoints |
+| Guardrails, Rate Limiting & Smart Caching | Cloud Hosting (Hostinger, Railway, Vercel) |
+| Production-ready AI Agents & Workflows | |
+
+---
 ---
 ---
 
