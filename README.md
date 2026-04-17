@@ -37,33 +37,25 @@ right AI solution, and deliver it as a polished, deployed product.
 <br clear="right"/>
 
 ---
-<h2>Core Expertise</h2>
-<table style="width:100%; border-collapse:collapse;">
-    <tr>
-        <th style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Expertise Area</th>
-        <th style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Details</th>
-    </tr>
-    <tr>
-        <td style="border: 1px solid #dddddd; padding: 8px;">Software Development</td>
-        <td style="border: 1px solid #dddddd; padding: 8px;">
-            <ul>
-                <li>Full-stack Development</li>
-                <li>API Development</li>
-                <li>Responsive Design</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td style="border: 1px solid #dddddd; padding: 8px;">Data Analysis</td>
-        <td style="border: 1px solid #dddddd; padding: 8px;">
-            <ul>
-                <li>Data Visualization</li>
-                <li>Statistical Modeling</li>
-                <li>Database Management</li>
-            </ul>
-        </td>
-    </tr>
-</table>
+## ⚡ Core Expertise
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px;">
+  
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; background: #f9f9f9;">
+    <h3>🔍 Computer Vision</h3>
+    • Detection, Segmentation & OCR<br/>
+    • Object Tracking & Quality Inspection<br/>
+    • Real-time Inference Pipelines
+  </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; background: #f9f9f9;">
+    <h3>💬 NLP & Language Models</h3>
+    • Text Classification, NER & Summarization<br/>
+    • RAG Pipelines, Fine-tuning & Evaluation<br/>
+    • Advanced Prompt Engineering & Generative AI
+  </div>
+
+</div>
 
 ---
 
