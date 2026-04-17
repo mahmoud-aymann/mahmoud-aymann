@@ -36,7 +36,6 @@ right AI solution, and deliver it as a polished, deployed product.
 
 <br clear="right"/>
 
----
 
 ## ⚡ Core Expertise
 
@@ -71,7 +70,6 @@ Hostinger · Railway · Vercel
     </td>
   </tr>
 </table>
----
 
 ## 🛠️ Tech Stack
 
