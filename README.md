@@ -54,8 +54,6 @@ Text Classification · NER · Summarization
 RAG pipelines · Fine-tuning · Evaluation
 Prompt Engineering · Generative AI
 
-    </td>
-    <td valign="top" width="50%">
 
 ### ⚙️ MLOps & Deployment
 Docker · CI/CD · Experiment Tracking
@@ -67,7 +65,6 @@ REST APIs (FastAPI · Flask)
 Web UIs · Secure endpoints
 Hostinger · Railway · Vercel
 
-    </td>
   </tr>
 </table>
 
@@ -121,7 +118,7 @@ Hostinger · Railway · Vercel
 
 ---
 
-## 🌐 Selected Client Projects
+## 🌐 Selected Client Web Projects 
 
 | Project | Description | Stack |
 |---|---|---|
