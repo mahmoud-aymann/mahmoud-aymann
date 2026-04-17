@@ -36,12 +36,13 @@ right AI solution, and deliver it as a polished, deployed product.
 
 <br clear="right"/>
 
+---
 
 ## ⚡ Core Expertise
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td width="50%" valign="top">
 
 ### 🔍 Computer Vision
 Detection · Segmentation · OCR  
@@ -55,7 +56,7 @@ Model versioning · Observability
 
     </td>
 
-    <td valign="top" width="50%">
+    <td width="50%" valign="top">
 
 ### 💬 NLP & LLMs
 Text Classification · NER · Summarization  
@@ -70,6 +71,8 @@ Hostinger · Railway · Vercel
     </td>
   </tr>
 </table>
+
+---
 
 ## 🛠️ Tech Stack
 
