@@ -39,32 +39,23 @@ right AI solution, and deliver it as a polished, deployed product.
 ---
 ## ⚡ Core Expertise
 
-<details open>
-<summary><b>🔍 Computer Vision</b></summary>
+> **🔍 Computer Vision**  
+> Detection, Segmentation & OCR · Object Tracking & Quality Inspection · Real-time Inference Pipelines
 
-- Detection, Segmentation & OCR
-- Object Tracking & Quality Inspection
-- Real-time Inference Pipelines
+> **⚙️ MLOps & Deployment**  
+> Docker Containerization & CI/CD Pipelines · On-premises, VPC & Managed Cloud Solutions · Model Versioning & Production Observability
 
-</details>
+> **💬 NLP & Language Models**  
+> Text Classification, NER & Summarization · RAG Pipelines, Fine-tuning & Evaluation · Advanced Prompt Engineering & Generative AI
 
-<details open>
-<summary><b>⚙️ MLOps & Deployment</b></summary>
+> **🧠 LLM Systems Architecture**  
+> RAG Implementation with Vector Databases · (FAISS, Pinecone, Weaviate) · Semantic Search & Intelligent Chunking Strategies · Context Management & Function Calling
 
-- Docker Containerization & CI/CD Pipelines
-- On-premises, VPC & Managed Cloud Solutions
-- Model Versioning & Production Observability
+> **⚡ Production LLM Deployment**  
+> LangChain & LlamaIndex Frameworks · FastAPI-based LLM APIs & Microservices · Guardrails, Rate Limiting & Smart Caching · Production-ready AI Agents & Workflows
 
-</details>
-
-<details open>
-<summary><b>💬 NLP & Language Models</b></summary>
-
-- Text Classification, NER & Summarization
-- RAG Pipelines, Fine-tuning & Evaluation
-- Advanced Prompt Engineering & Generative AI
-
-</details>
+> **🌐 End-to-End AI Solutions**  
+> REST APIs (FastAPI, Flask) · Modern Web UIs & Secure Endpoints · Cloud Hosting (Hostinger, Railway, Vercel)
 ---
 
 ## 🛠️ Tech Stack
