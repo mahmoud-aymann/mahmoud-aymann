@@ -39,31 +39,32 @@ right AI solution, and deliver it as a polished, deployed product.
 ---
 ## ⚡ Core Expertise
 
-### Computer Vision & MLOps
+<details open>
+<summary><b>🔍 Computer Vision</b></summary>
 
-| Computer Vision | MLOps & Deployment |
-|---|---|
-| Detection, Segmentation & OCR | Docker Containerization & CI/CD Pipelines |
-| Object Tracking & Quality Inspection | On-premises, VPC & Managed Cloud Solutions |
-| Real-time Inference Pipelines | Model Versioning & Production Observability |
+- Detection, Segmentation & OCR
+- Object Tracking & Quality Inspection
+- Real-time Inference Pipelines
 
-### NLP & Language Models
+</details>
 
-| NLP & LLMs | LLM Systems Architecture |
-|---|---|
-| Text Classification, NER & Summarization | RAG Implementation with Vector Databases |
-| RAG Pipelines, Fine-tuning & Evaluation | (FAISS, Pinecone, Weaviate) |
-| Advanced Prompt Engineering & Generative AI | Semantic Search & Intelligent Chunking Strategies |
-| | Context Management & Function Calling |
+<details open>
+<summary><b>⚙️ MLOps & Deployment</b></summary>
 
-### LLM Deployment & Solutions
+- Docker Containerization & CI/CD Pipelines
+- On-premises, VPC & Managed Cloud Solutions
+- Model Versioning & Production Observability
 
-| Production LLM Deployment | End-to-End AI Solutions |
-|---|---|
-| LangChain & LlamaIndex Frameworks | REST APIs (FastAPI, Flask) |
-| FastAPI-based LLM APIs & Microservices | Modern Web UIs & Secure Endpoints |
-| Guardrails, Rate Limiting & Smart Caching | Cloud Hosting (Hostinger, Railway, Vercel) |
-| Production-ready AI Agents & Workflows | |
+</details>
+
+<details open>
+<summary><b>💬 NLP & Language Models</b></summary>
+
+- Text Classification, NER & Summarization
+- RAG Pipelines, Fine-tuning & Evaluation
+- Advanced Prompt Engineering & Generative AI
+
+</details>
 ---
 
 ## 🛠️ Tech Stack
