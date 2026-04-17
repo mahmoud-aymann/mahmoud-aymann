@@ -37,6 +37,7 @@ right AI solution, and deliver it as a polished, deployed product.
 <br clear="right"/>
 
 ---
+
 ## ⚡ Core Expertise
 
 ### 🔍 Computer Vision
