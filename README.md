@@ -39,24 +39,9 @@ right AI solution, and deliver it as a polished, deployed product.
 ---
 ## ⚡ Core Expertise
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px;">
-  
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; background: #f9f9f9;">
-    <h3>🔍 Computer Vision</h3>
-    • Detection, Segmentation & OCR<br/>
-    • Object Tracking & Quality Inspection<br/>
-    • Real-time Inference Pipelines
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; background: #f9f9f9;">
-    <h3>💬 NLP & Language Models</h3>
-    • Text Classification, NER & Summarization<br/>
-    • RAG Pipelines, Fine-tuning & Evaluation<br/>
-    • Advanced Prompt Engineering & Generative AI
-  </div>
-
-</div>
-
+| | |
+|---|---|
+| <h3>🔍 Computer Vision</h3><br/>• Detection, Segmentation & OCR<br/>• Object Tracking & Quality Inspection<br/>• Real-time Inference Pipelines<br/><br/><h3>⚙️ MLOps & Deployment</h3><br/>• Docker Containerization & CI/CD Pipelines<br/>• On-premises, VPC & Managed Cloud Solutions<br/>• Model Versioning & Production Observability | <h3>💬 NLP & Language Models</h3><br/>• Text Classification, NER & Summarization<br/>• RAG Pipelines, Fine-tuning & Evaluation<br/>• Advanced Prompt Engineering & Generative AI<br/><br/><h3>🧠 LLM Systems Architecture</h3><br/>• RAG Implementation with Vector Databases<br/>• FAISS, Pinecone, Weaviate<br/>• Semantic Search & Intelligent Chunking Strategies<br/>• Context Management & Function Calling |
 ---
 
 ## 🛠️ Tech Stack
