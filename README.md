@@ -39,33 +39,53 @@ right AI solution, and deliver it as a polished, deployed product.
 ---
 ## ⚡ Core Expertise
 
-### Computer Vision & MLOps
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔍 Computer Vision</h3>
+      <ul>
+        <li>Detection, Segmentation & OCR</li>
+        <li>Object Tracking & Quality Inspection</li>
+        <li>Real-time Inference Pipelines</li>
+      </ul>
+      <h3>⚙️ MLOps & Deployment</h3>
+      <ul>
+        <li>Docker Containerization & CI/CD Pipelines</li>
+        <li>On-premises, VPC & Managed Cloud Solutions</li>
+        <li>Model Versioning & Production Observability</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>💬 NLP & Language Models</h3>
+      <ul>
+        <li>Text Classification, NER & Summarization</li>
+        <li>RAG Pipelines, Fine-tuning & Evaluation</li>
+        <li>Advanced Prompt Engineering & Generative AI</li>
+      </ul>
+      <h3>🧠 LLM Systems Architecture</h3>
+      <ul>
+        <li>RAG Implementation with Vector Databases</li>
+        <li>FAISS, Pinecone, Weaviate</li>
+        <li>Semantic Search & Intelligent Chunking Strategies</li>
+        <li>Context Management & Function Calling</li>
+      </ul>
+      <h3>⚡ Production LLM Deployment</h3>
+      <ul>
+        <li>LangChain & LlamaIndex Frameworks</li>
+        <li>FastAPI-based LLM APIs & Microservices</li>
+        <li>Guardrails, Rate Limiting & Smart Caching</li>
+        <li>Production-ready AI Agents & Workflows</li>
+      </ul>
+      <h3>🌐 End-to-End AI Solutions</h3>
+      <ul>
+        <li>REST APIs (FastAPI, Flask)</li>
+        <li>Modern Web UIs & Secure Endpoints</li>
+        <li>Cloud Hosting (Hostinger, Railway, Vercel)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-| Computer Vision | MLOps & Deployment |
-|---|---|
-| Detection, Segmentation & OCR | Docker Containerization & CI/CD Pipelines |
-| Object Tracking & Quality Inspection | On-premises, VPC & Managed Cloud Solutions |
-| Real-time Inference Pipelines | Model Versioning & Production Observability |
-
-### NLP & Language Models
-
-| NLP & LLMs | LLM Systems Architecture |
-|---|---|
-| Text Classification, NER & Summarization | RAG Implementation with Vector Databases |
-| RAG Pipelines, Fine-tuning & Evaluation | (FAISS, Pinecone, Weaviate) |
-| Advanced Prompt Engineering & Generative AI | Semantic Search & Intelligent Chunking Strategies |
-| | Context Management & Function Calling |
-
-### LLM Deployment & End-to-End Solutions
-
-| Production LLM Deployment | End-to-End AI Solutions |
-|---|---|
-| LangChain & LlamaIndex Frameworks | REST APIs (FastAPI, Flask) |
-| FastAPI-based LLM APIs & Microservices | Modern Web UIs & Secure Endpoints |
-| Guardrails, Rate Limiting & Smart Caching | Cloud Hosting (Hostinger, Railway, Vercel) |
-| Production-ready AI Agents & Workflows | |
-
----
 ---
 ---
 
