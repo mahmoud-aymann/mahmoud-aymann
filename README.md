@@ -1,157 +1,121 @@
-   <div align="center">                                                                                                                                                                                                  
-  <h1>Mahmoud Ayman</h1>                                                                                                                                                                                                           
-  <p><strong>AI/ML & Computer Vision</strong> · Communications & Electronics Engineering</p>                                                                                                                           
-  <p>                                      
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1200&color=0A66C2&center=true&vCenter=true&width=600&lines=Production-grade+AI+Systems;Computer+Vision+%26+NLP;Fast%2C+measurable+business+impact" alt="Typing headline" />   
-  </p>       
-  <p>          
-    <img src="https://img.shields.io/badge/AI%2FML-0B132B?style=flat-square&logo=openai&logoColor=white" alt="AI/ML" />
-    <img src="https://img.shields.io/badge/Computer%20Vision-1C2541?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision" />
-    <img src="https://img.shields.io/badge/NLP-5A189A?style=flat-square&logo=huggingface&logoColor=white" alt="NLP" />
-    <img src="https://img.shields.io/badge/Communications%20%26%20Electronics-3A506B?style=flat-square&logo=raspberrypi&logoColor=white" alt="Communications & Electronics" />
-  </p>
-  <p>
-    <a href="https://mahmoudayman.me" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Website-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
-    <a href="https://www.linkedin.com/in/mahmoud-aymann/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:mahmoudaymann153@gmail.com"><img src="https://img.shields.io/badge/Email-3B82F6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/mahmoud-aymann" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
-</div>    
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=32&pause=1200&color=0A66C2&center=true&vCenter=true&width=700&lines=Mahmoud+Ayman;AI%2FML+Engineer" alt="Name" />
+
+**Computer Vision · NLP · Production AI Systems**
+
+[![Website](https://img.shields.io/badge/Portfolio-mahmoudayman.me-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://mahmoudayman.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-aymann/)
+[![Email](https://img.shields.io/badge/Email-Contact-3B82F6?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmoudaymann153@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/mahmoud-aymann)
+
+</div>
 
 ---
 
-I design and deliver AI systems that convert visual and textual data into measurable business outcomes. Currently pursuing an advanced AI/ML diploma (NLP, CV, LLMs, Generative AI).
+## About
 
-• 100+ clients served (majority web‑based AI apps) · Multiple solutions shipped end‑to‑end · Egypt‑based, working globally
+I design and ship AI systems that turn visual and textual data into measurable business outcomes — from problem framing to production deployment.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Accuracy-95%25%2B-success" alt="Accuracy" />
-  <img src="https://img.shields.io/badge/Latency-%3C50ms-informational" alt="Latency" />
-  <img src="https://img.shields.io/badge/Clients-100%2B-0ea5e9" alt="Clients" />
-  <img src="https://img.shields.io/badge/Solutions-Shipped-blueviolet" alt="Solutions" />
-  <img src="https://img.shields.io/badge/Web%20Apps-Primary%20delivery-blue" alt="Web Delivery" />
-</p>
+Currently completing an advanced diploma in AI & ML covering NLP, Computer Vision, LLMs, and Generative AI, alongside a B.Sc. in Communications & Electronics Engineering.
 
-<details>
-  <summary><strong>Quick Navigation</strong></summary>
-  <p>
-    <a href="#expertise">Expertise</a> ·
-    <a href="#stack">Stack</a> ·
-    <a href="#featured-repository-blood-cell-prediction">Featured Repo</a> ·
-    <a href="#enterprise-ready-delivery">Enterprise Delivery</a> ·
-    <a href="#recent-web-projects">Recent Web Projects</a> ·
-    <a href="#contact">Contact</a>
-  </p>
-</details>
+```
+100+ clients served  ·  End-to-end delivery  ·  Egypt-based, working globally
+```
 
-### Expertise
-- Computer Vision: detection, segmentation, OCR, tracking, quality inspection
-- NLP: classification, NER, summarization, RAG with LLMs
-- LLMs & Generative AI: prompt engineering, fine‑tuning, evaluation
-- Data Science & MLOps: prototyping, experiment tracking, packaging, deployment
+---
 
-### Stack
-<details>
-  <summary><strong>View Tech Stack</strong></summary>
-  <p align="left">
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
-    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="36" height="36" alt="OpenCV" /></a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="36" height="36" alt="scikit-learn" /></a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" /></a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  </p>
-</details>
+## Core Expertise
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmoud-aymann&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
+| Domain | Capabilities |
+|---|---|
+| **Computer Vision** | Detection, segmentation, OCR, tracking, quality inspection |
+| **NLP** | Classification, NER, summarization, RAG pipelines with LLMs |
+| **LLMs & Generative AI** | Prompt engineering, fine-tuning, evaluation frameworks |
+| **MLOps & Deployment** | Experiment tracking, Docker, CI/CD, cloud & on-prem hosting |
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud-aymann&theme=github-compact&hide_border=true" alt="Activity Graph" />
-</p>
+---
 
-### Computer Vision Focus
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/YOLO-%23000000?logo=github&logoColor=white" alt="YOLO" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
-</p>
+## Tech Stack
 
-### Highlights
-- Co‑manage a boutique practice delivering AI and data services
-- End‑to‑end product delivery: discovery → MVP → deployment → monitoring
-- Execution style: fast iterations, clear communication, impact focus
- - Full‑stack web AI delivery: from zero → UI + API → hosting (e.g., Hostinger)
-
-### Featured Repository: Blood Cell Prediction
-<p>
-  <a href="https://web-production-4a424.up.railway.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Live%20Demo-Try%20Now-brightgreen.svg" alt="Live Demo" /></a>
-  <a href="https://github.com/mahmoud-aymann/blood_cell_prediction" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-Repository-black.svg" alt="GitHub" /></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg" alt="Python" /></a>
-  <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-3.0%2B-green.svg" alt="Flask" /></a>
-  <a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PyTorch-2.1%2B-red.svg" alt="PyTorch" /></a>
-  <a href="https://github.com/mahmoud-aymann/blood_cell_prediction/commits/main" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/last-commit/mahmoud-aymann/blood_cell_prediction?color=0A66C2" alt="Last Commit" /></a>
-</p>
-
-- End‑to‑end CV app for blood cell classification (web UI + REST API + Docker deploy).
-- 95%+ accuracy on test set; 8 classes; sub‑50ms real‑time inference; privacy‑first (in‑memory processing).
-- Tech: PyTorch, Flask, OpenCV, scikit‑learn, Docker, Railway.
-- Features: drag‑and‑drop UI, confidence scores, robust error handling, notebooks, one‑click deploy.
-
-Quick links: Live demo: https://web-production-4a424.up.railway.app/ · Repo: https://github.com/mahmoud-aymann/blood_cell_prediction
-
-<details>
-  <summary><strong>Show technical highlights</strong></summary>
-  <ul>
-    <li>Reproducible training pipeline (configs, seed control, versioned datasets)</li>
-    <li>Baseline models + augmentation strategies; clear metrics and validation splits</li>
-    <li>Exportable inference (TorchScript/ONNX-ready) and serving example</li>
-    <li>Deployment: Docker image; Railway one-click template</li>
-  </ul>
-</details>
-
-### Enterprise-Ready Delivery
-- Security-first: secure data handling, private endpoints, access controls
-- Flexible deployment: on‑prem, VPC, or managed cloud with IaC
-- Observability: experiment tracking, versioning, metrics, and dashboards
-- Compliance-minded: documentation, reproducibility, auditability by default
-- Clear engagement: milestones, SLAs, and transparent reporting
-
-### Education
-- B.Sc. Communications & Electronics Engineering (in progress)
-- Advanced Diploma in AI & Machine Learning (NLP, CV, LLMs, Generative AI)
-
-### Contact
-- 🌍 Based in Egypt
-- ✉️ [mahmoudaymann153@gmail.com](mailto:mahmoudaymann153@gmail.com)
-- ✉️ [info@mahmoudayman.me](mailto:info@mahmoudayman.me)
-- 🌐 Portfolio: [mahmoudayman.me](https://mahmoudayman.me)
-
-### Socials
 <p align="left">
-  <a href="https://www.github.com/mahmoud-aymann" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-  <a href="https://hashnode.com/@mahmoudayman1" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/mahmoud-aymann/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-  <a href="http://www.medium.com/@mahmoudayman1" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
-  </a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" title="PyTorch" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="36" height="36" alt="OpenCV" title="OpenCV" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="36" height="36" alt="scikit-learn" title="scikit-learn" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" title="FastAPI" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git" />
 </p>
 
-### GitHub Stats
+**Also:** YOLO · HuggingFace · Flask · LangChain · Railway · Vercel · Hostinger · MySQL
+
+---
+
+## Featured Project — Blood Cell Prediction
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now-22c55e?style=flat-square)](https://web-production-4a424.up.railway.app/)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-111827?style=flat-square&logo=github)](https://github.com/mahmoud-aymann/blood_cell_prediction)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.1%2B-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![Last Commit](https://img.shields.io/github/last-commit/mahmoud-aymann/blood_cell_prediction?style=flat-square&color=0A66C2)](https://github.com/mahmoud-aymann/blood_cell_prediction/commits/main)
+
+An end-to-end medical CV application for automated blood cell classification — full web UI, REST API, and containerized deployment.
+
+| Metric | Value |
+|---|---|
+| **Accuracy** | 95%+ on held-out test set |
+| **Inference latency** | < 50ms real-time |
+| **Classes** | 8 blood cell types |
+| **Privacy** | In-memory processing — no data stored |
+
+**Stack:** PyTorch · Flask · OpenCV · scikit-learn · Docker · Railway
+
+<details>
+<summary><strong>Technical highlights</strong></summary>
+
+- Reproducible training pipeline with seed control, versioned datasets, and config management
+- Baseline benchmarks with augmentation ablations and clear validation splits
+- Exportable inference (TorchScript / ONNX-ready) with a production serving example
+- Drag-and-drop web UI with confidence scores and robust error handling
+- One-click Docker + Railway deployment template
+
+</details>
+
+---
+
+## Delivery Standards
+
+- **Security-first** — secure data handling, private endpoints, access controls
+- **Flexible deployment** — on-prem, VPC, or managed cloud with IaC support
+- **Observability** — experiment tracking, model versioning, metrics dashboards
+- **Reproducibility** — full documentation and auditability by default
+- **Clear engagement** — milestones, SLAs, and transparent reporting throughout
+
+---
+
+## Selected Web Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Warda Print**](https://wardaprint.com/) | Printing services e-commerce | HTML · CSS · JS · Bootstrap |
+| [**Smart Hands**](https://smarthands.sa) | Professional services platform | Laravel · PHP · MySQL |
+| [**Secusys**](https://secusyss.com/) | Enterprise security solutions | HTML · CSS · JS · Bootstrap |
+| [**Cloud Logistic**](https://cloud-logistic.com/) | Logistics management platform | HTML · CSS · JS · Bootstrap |
+| [**Dazzle Architect**](https://dazzle-architect.com/) | Architecture portfolio & galleries | HTML · CSS · JS · Bootstrap |
+| [**Burj Al Enjaz**](https://burj-alenjaz.com/) | Real estate listings & virtual tours | HTML · CSS · JS · Bootstrap |
+| [**Mudun SA**](https://mudunsa.com/) | Urban development & planning | HTML · CSS · JS · Bootstrap |
+| [**Cars Oil**](https://cars-oil.com/) | Automotive maintenance services | HTML · CSS · JS · Bootstrap |
+
+> Clients span Saudi Arabia and the broader MENA region across services, logistics, real estate, and professional sectors.
+
+---
+
+## GitHub Activity
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-aymann&theme=github_dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-aymann&theme=github_dark" alt="Profile Summary" />
 </p>
 
 <p align="center">
@@ -159,72 +123,21 @@ Quick links: Live demo: https://web-production-4a424.up.railway.app/ · Repo: ht
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-aymann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud-aymann&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+</p>
 
-### Additional Web Experience
-- End-to-end web delivery: requirements → design → UI + API → CI/CD → hosting
-- Frontend: HTML5/CSS3/JavaScript, responsive UX, component-driven UIs
-- Backend: Flask/FastAPI, RESTful APIs, secure session and file handling
-- Deployment/Hosting: Hostinger, Railway, Vercel; Dockerized builds and templates
-- Performance & Security: CDN, caching, HTTPS, rate limiting, observability dashboards
-- SEO & Analytics: metadata, sitemap, Lighthouse checks, privacy-aware tracking
+---
 
-### Recent Web Projects
-<table>
-  <tr>
-    <td>
-      <a href="https://wardaprint.com/" target="_blank"><strong>Warda Print</strong></a><br/>
-      Printing services e‑commerce<br/>
-      <img src="https://img.shields.io/badge/HTML-orange" /> <img src="https://img.shields.io/badge/CSS-blue" /> <img src="https://img.shields.io/badge/JS-yellow" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3" />
-    </td>
-    <td>
-      <a href="https://smarthands.sa" target="_blank"><strong>Smart Hands</strong></a><br/>
-      Professional services platform<br/>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20" /> <img src="https://img.shields.io/badge/PHP-777BB3" /> <img src="https://img.shields.io/badge/MySQL-4479A1" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://secusyss.com/" target="_blank"><strong>Secusys</strong></a><br/>
-      Enterprise security solutions site<br/>
-      <img src="https://img.shields.io/badge/HTML-orange" /> <img src="https://img.shields.io/badge/CSS-blue" /> <img src="https://img.shields.io/badge/JS-yellow" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3" />
-    </td>
-    <td>
-      <a href="https://cloud-logistic.com/" target="_blank"><strong>Cloud Logistic</strong></a><br/>
-      Logistics management platform<br/>
-      <img src="https://img.shields.io/badge/HTML-orange" /> <img src="https://img.shields.io/badge/CSS-blue" /> <img src="https://img.shields.io/badge/JS-yellow" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3" />
-    </td>
-  </tr>
-  <tr>
-    <!-- <td>
-      <a href="https://naqaaalriyadh.com/" target="_blank"><strong>Naqaa Al Riyadh</strong></a><br/>
-      Cleaning services with booking<br/>
-      <img src="https://img.shields.io/badge/HTML-orange" /> <img src="https://img.shields.io/badge/CSS-blue" /> <img src="https://img.shields.io/badge/JS-yellow" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3" />
-    </td> -->
-    <td>
-      <a href="https://dazzle-architect.com/" target="_blank"><strong>Dazzle Architect</strong></a><br/>
-      Architecture portfolio and galleries<br/>
-      <img src="https://img.shields.io/badge/HTML-orange" /> <img src="https://img.shields.io/badge/CSS-blue" /> <img src="https://img.shields.io/badge/JS-yellow" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://burj-alenjaz.com/" target="_blank"><strong>Burj Al Enjaz</strong></a><br/>
-      Real estate listings and tours<br/>
-      <img src="https://img.shields.io/badge/HTML-orange" /> <img src="https://img.shields.io/badge/CSS-blue" /> <img src="https://img.shields.io/badge/JS-yellow" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3" />
-    </td>
-    <td>
-      <a href="https://mudunsa.com/" target="_blank"><strong>Mudun SA</strong></a><br/>
-      Urban development & planning<br/>
-      <img src="https://img.shields.io/badge/HTML-orange" /> <img src="https://img.shields.io/badge/CSS-blue" /> <img src="https://img.shields.io/badge/JS-yellow" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <a href="https://cars-oil.com/" target="_blank"><strong>Cars Oil</strong></a><br/>
-      Automotive maintenance & oil services<br/>
-      <img src="https://img.shields.io/badge/HTML-orange" /> <img src="https://img.shields.io/badge/CSS-blue" /> <img src="https://img.shields.io/badge/JS-yellow" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3" />
-    </td>
-  </tr>
-</table>
+## Contact
 
-Worked with many clients in Saudi Arabia across services, logistics, real estate, and professional sectors.
+- 📍 Egypt — available for remote and international engagements
+- ✉️ [mahmoudaymann153@gmail.com](mailto:mahmoudaymann153@gmail.com) · [info@mahmoudayman.me](mailto:info@mahmoudayman.me)
+- 🌐 [mahmoudayman.me](https://mahmoudayman.me)
+
+<p align="left">
+  <a href="https://www.github.com/mahmoud-aymann" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="28" height="28" alt="GitHub" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/mahmoud-aymann/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" alt="LinkedIn" /></a>&nbsp;
+  <a href="http://www.medium.com/@mahmoudayman1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="28" height="28" alt="Medium" /></a>&nbsp;
+  <a href="https://hashnode.com/@mahmoudayman1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="28" height="28" alt="Hashnode" /></a>
+</p>
