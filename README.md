@@ -39,9 +39,8 @@ right AI solution, and deliver it as a polished, deployed product.
 ---
 ## ⚡ Core Expertise
 
-| | |
 |---|---|
-| <h3>🔍 Computer Vision</h3><br/>• Detection, Segmentation & OCR<br/>• Object Tracking & Quality Inspection<br/>• Real-time Inference Pipelines<br/><br/><h3>⚙️ MLOps & Deployment</h3><br/>• Docker Containerization & CI/CD Pipelines<br/>• On-premises, VPC & Managed Cloud Solutions<br/>• Model Versioning & Production Observability | <h3>💬 NLP & Language Models</h3><br/>• Text Classification, NER & Summarization<br/>• RAG Pipelines, Fine-tuning & Evaluation<br/>• Advanced Prompt Engineering & Generative AI<br/><br/><h3>🧠 LLM Systems Architecture</h3><br/>• RAG Implementation with Vector Databases<br/>• FAISS, Pinecone, Weaviate<br/>• Semantic Search & Intelligent Chunking Strategies<br/>• Context Management & Function Calling |
+| <h3>🔍 Computer Vision</h3><br/>• Detection, Segmentation & OCR<br/>• Object Tracking & Quality Inspection<br/>• Real-time Inference Pipelines<br/><br/><h3>⚙️ MLOps & Deployment</h3><br/>• Docker Containerization & CI/CD Pipelines<br/>• On-premises, VPC & Managed Cloud Solutions<br/>• Model Versioning & Production Observability | <h3>💬 NLP & Language Models</h3><br/>• Text Classification, NER & Summarization<br/>• RAG Pipelines, Fine-tuning & Evaluation<br/>• Advanced Prompt Engineering & Generative AI<br/><br/><h3>🧠 LLM Systems Architecture</h3><br/>• RAG Implementation with Vector Databases<br/>• FAISS, Pinecone, Weaviate<br/>• Semantic Search & Intelligent Chunking Strategies<br/>• Context Management & Function Calling<br/><br/><h3>⚡ Production LLM Deployment</h3><br/>• LangChain & LlamaIndex Frameworks<br/>• FastAPI-based LLM APIs & Microservices<br/>• Guardrails, Rate Limiting & Smart Caching<br/>• Production-ready AI Agents & Workflows<br/><br/><h3>🌐 End-to-End AI Solutions</h3><br/>• REST APIs (FastAPI, Flask)<br/>• Modern Web UIs & Secure Endpoints<br/>• Cloud Hosting (Hostinger, Railway, Vercel) |
 ---
 
 ## 🛠️ Tech Stack
