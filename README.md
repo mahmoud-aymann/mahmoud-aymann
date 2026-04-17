@@ -37,52 +37,60 @@ right AI solution, and deliver it as a polished, deployed product.
 <br clear="right"/>
 
 ---
-
-## ⚡ Core Expertise
+<h2>⚡ Core Expertise</h2>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+      <h3>🔍 Computer Vision</h3>
+  <p>
+    Detection · Segmentation · OCR<br/>
+    Tracking · Quality Inspection<br/>
+    Real-time inference pipelines
+  </p>
 
-### 🔍 Computer Vision
-Detection · Segmentation · OCR  
-Tracking · Quality Inspection  
-Real-time inference pipelines  
+  <h3>⚙️ MLOps &amp; Deployment</h3>
+  <p>
+    Docker · CI/CD · Experiment Tracking<br/>
+    On-prem · VPC · Managed Cloud<br/>
+    Model versioning · Observability
+  </p>
 
-### ⚙️ MLOps & Deployment
-Docker · CI/CD · Experiment Tracking  
-On-prem · VPC · Managed Cloud  
-Model versioning · Observability  
+</td>
 
-    </td>
+<td width="50%" style="vertical-align: top; padding-left: 16px;">
 
-    <td width="50%" valign="top">
+  <h3>💬 NLP &amp; LLMs</h3>
+  <p>
+    Text Classification · NER · Summarization<br/>
+    RAG pipelines · Fine-tuning · Evaluation<br/>
+    Prompt Engineering · Generative AI
+  </p>
 
-### 💬 NLP & LLMs
-Text Classification · NER · Summarization  
-RAG pipelines · Fine-tuning · Evaluation  
-Prompt Engineering · Generative AI  
+  <h3>🧠 LLM Systems</h3>
+  <p>
+    RAG Pipelines · Vector Databases (FAISS · Pinecone · Weaviate)<br/>
+    Embeddings · Semantic Search · Chunking Strategies<br/>
+    Context Management · Tool Calling · Function Calling
+  </p>
 
-🧠 LLM Systems
-RAG Pipelines · Vector Databases (FAISS · Pinecone · Weaviate)  
-Embeddings · Semantic Search · Chunking Strategies  
-Context Management · Tool Calling · Function Calling  
+  <h3>⚡ LLM Apps &amp; Deployment</h3>
+  <p>
+    LangChain · LlamaIndex<br/>
+    FastAPI-based LLM APIs<br/>
+    Guardrails · Rate Limiting · Caching<br/>
+    Production-ready AI Agents &amp; Workflows
+  </p>
 
-⚡ LLM Apps & Deployment
-LangChain · LlamaIndex  
-FastAPI-based LLM APIs  
-Guardrails · Rate Limiting · Caching  
-Production-ready AI Agents & Workflows  
+  <h3>🌐 Full-Stack AI Delivery</h3>
+  <p>
+    REST APIs (FastAPI · Flask)<br/>
+    Web UIs · Secure endpoints<br/>
+    Hostinger · Railway · Vercel
+  </p>
 
-### 🌐 Full-Stack AI Delivery
-REST APIs (FastAPI · Flask)  
-Web UIs · Secure endpoints  
-Hostinger · Railway · Vercel  
-
-    </td>
+</td>
   </tr>
 </table>
-
 ---
 
 ## 🛠️ Tech Stack
