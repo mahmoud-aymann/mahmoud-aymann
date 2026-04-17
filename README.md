@@ -37,60 +37,11 @@ right AI solution, and deliver it as a polished, deployed product.
 <br clear="right"/>
 
 ---
-<h2>⚡ Core Expertise</h2>
+## ⚡ Core Expertise
 
-<table>
-  <tr>
-      <h3>🔍 Computer Vision</h3>
-  <p>
-    Detection · Segmentation · OCR<br/>
-    Tracking · Quality Inspection<br/>
-    Real-time inference pipelines
-  </p>
-
-  <h3>⚙️ MLOps &amp; Deployment</h3>
-  <p>
-    Docker · CI/CD · Experiment Tracking<br/>
-    On-prem · VPC · Managed Cloud<br/>
-    Model versioning · Observability
-  </p>
-
-</td>
-
-<td width="50%" style="vertical-align: top; padding-left: 16px;">
-
-  <h3>💬 NLP &amp; LLMs</h3>
-  <p>
-    Text Classification · NER · Summarization<br/>
-    RAG pipelines · Fine-tuning · Evaluation<br/>
-    Prompt Engineering · Generative AI
-  </p>
-
-  <h3>🧠 LLM Systems</h3>
-  <p>
-    RAG Pipelines · Vector Databases (FAISS · Pinecone · Weaviate)<br/>
-    Embeddings · Semantic Search · Chunking Strategies<br/>
-    Context Management · Tool Calling · Function Calling
-  </p>
-
-  <h3>⚡ LLM Apps &amp; Deployment</h3>
-  <p>
-    LangChain · LlamaIndex<br/>
-    FastAPI-based LLM APIs<br/>
-    Guardrails · Rate Limiting · Caching<br/>
-    Production-ready AI Agents &amp; Workflows
-  </p>
-
-  <h3>🌐 Full-Stack AI Delivery</h3>
-  <p>
-    REST APIs (FastAPI · Flask)<br/>
-    Web UIs · Secure endpoints<br/>
-    Hostinger · Railway · Vercel
-  </p>
-
-</td>
-  </tr>
-</table>
+| | |
+|---|---|
+| **🔍 Computer Vision**<br/>Detection, Segmentation & OCR<br/>Object Tracking & Quality Inspection<br/>Real-time Inference Pipelines<br/><br/>**⚙️ MLOps & Deployment**<br/>Docker Containerization & CI/CD Pipelines<br/>On-premises, VPC & Managed Cloud Solutions<br/>Model Versioning & Production Observability | **💬 NLP & Language Models**<br/>Text Classification, NER & Summarization<br/>RAG Pipelines, Fine-tuning & Evaluation<br/>Advanced Prompt Engineering & Generative AI<br/><br/>**🧠 LLM Systems Architecture**<br/>RAG Implementation with Vector Databases<br/>(FAISS, Pinecone, Weaviate)<br/>Semantic Search & Intelligent Chunking Strategies<br/>Context Management & Function Calling<br/><br/>**⚡ Production LLM Deployment**<br/>LangChain & LlamaIndex Frameworks<br/>FastAPI-based LLM APIs & Microservices<br/>Guardrails, Rate Limiting & Smart Caching<br/>Production-ready AI Agents & Workflows<br/><br/>**🌐 End-to-End AI Solutions**<br/>REST APIs (FastAPI, Flask)<br/>Modern Web UIs & Secure Endpoints<br/>Cloud Hosting (Hostinger, Railway, Vercel) |
 ---
 
 ## 🛠️ Tech Stack
