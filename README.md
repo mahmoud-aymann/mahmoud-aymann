@@ -123,7 +123,7 @@ right AI solution, and deliver it as a polished, deployed product.
 ## 🌐 Selected Client Web Projects
 
 <details>
-<summary><b>🏢 Featured Projects (12 Clients)</b></summary>
+<summary><b>🏢 Featured Projects </b></summary>
 
 | Project | Description | Stack |
 |---|---|---|
@@ -139,8 +139,7 @@ right AI solution, and deliver it as a polished, deployed product.
 | [**Arabgulf Electronic Trading**](https://arabgulfae.com/) | Premium e-commerce platform · UAE based | E-commerce · HTML · CSS · JS |
 | [**Wise Software**](https://wisesoftware-sa.com/) | Tech services e-commerce · Modern UI | HTML · CSS · JavaScript |
 
-> 📍 **Clients across Saudi Arabia & MENA region** — services, logistics, real estate, professional sectors
-
+> 🌍 **Regional Impact, Global Standards** — Delivering enterprise-grade solutions to leading organizations across Saudi Arabia, UAE, and the MENA ecosystem.
 </details>
 ---
 
