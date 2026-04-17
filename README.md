@@ -40,42 +40,36 @@ right AI solution, and deliver it as a polished, deployed product.
 ## ⚡ Core Expertise
 
 ### 🔍 Computer Vision
-| | |
-|---|---|
 | Detection, Segmentation & OCR | Object Tracking & Quality Inspection |
+|---|---|
 | Real-time Inference Pipelines | |
 
 ### ⚙️ MLOps & Deployment
-| | |
-|---|---|
 | Docker Containerization & CI/CD Pipelines | On-premises, VPC & Managed Cloud Solutions |
+|---|---|
 | Model Versioning & Production Observability | |
 
 ### 💬 NLP & Language Models
-| | |
-|---|---|
 | Text Classification, NER & Summarization | RAG Pipelines, Fine-tuning & Evaluation |
+|---|---|
 | Advanced Prompt Engineering & Generative AI | |
 
 ### 🧠 LLM Systems Architecture
-| | |
-|---|---|
 | RAG Implementation with Vector Databases | FAISS, Pinecone, Weaviate |
+|---|---|
 | Semantic Search & Intelligent Chunking Strategies | Context Management & Function Calling |
 
 ### ⚡ Production LLM Deployment
-| | |
-|---|---|
 | LangChain & LlamaIndex Frameworks | FastAPI-based LLM APIs & Microservices |
+|---|---|
 | Guardrails, Rate Limiting & Smart Caching | Production-ready AI Agents & Workflows |
 
 ### 🌐 End-to-End AI Solutions
-| | |
-|---|---|
 | REST APIs (FastAPI, Flask) | Modern Web UIs & Secure Endpoints |
+|---|---|
 | Cloud Hosting (Hostinger, Railway, Vercel) | |
 
----
+
 ---
 
 ## 🛠️ Tech Stack
