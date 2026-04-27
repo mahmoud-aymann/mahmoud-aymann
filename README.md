@@ -1,7 +1,7 @@
 <div align="center">
        
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:111827&height=200&section=header&text=Mahmoud%20Ayman&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%94%20Computer%20Vision%20%C2%B7%20NLP%20%C2%B7%20Production%20AI&descSize=16&descAlignY=58&descColor=93c5fd" />
-     
+       
 <br/>
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&pause=1400&color=0A66C2&center=true&vCenter=true&width=700&lines=Building+AI+that+ships+to+production.;Computer+Vision+%7C+NLP+%7C+LLMs.;100%2B+clients.+Real+impact.+Measurable+results.)](https://git.io/typing-svg)
