@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05070D"/>
+      <stop offset="0.55" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#0E1A33"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.25" r="0.6">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.1" cy="1" r="0.5">
+      <stop offset="0" stop-color="#14B8A6" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glow)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glow2)"/>
+  <!-- abstract network motif -->
+  <g stroke="#93C5FD" stroke-opacity="0.22" stroke-width="1.2" fill="none">
+    <path d="M860 70 L950 120 L1040 80 L1110 150 L1020 210 L930 190 L860 70"/>
+    <path d="M950 120 L1020 210 M1040 80 L930 190 M950 120 L1110 150"/>
+  </g>
+  <g fill="#93C5FD">
+    <circle cx="860" cy="70" r="3.5" fill-opacity="0.7"/>
+    <circle cx="950" cy="120" r="5" fill="#60A5FA"/>
+    <circle cx="1040" cy="80" r="3.5" fill-opacity="0.7"/>
+    <circle cx="1110" cy="150" r="4" fill="#2DD4BF"/>
+    <circle cx="1020" cy="210" r="5" fill="#60A5FA"/>
+    <circle cx="930" cy="190" r="3.5" fill-opacity="0.7"/>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="72" y="96" fill="#94A3B8" font-size="15" letter-spacing="4" font-weight="600">AI / ML ENGINEER</text>
+    <text x="70" y="160" fill="#F8FAFC" font-size="58" font-weight="700" letter-spacing="-1">Mahmoud Ayman</text>
+    <rect x="72" y="182" width="64" height="4" rx="2" fill="url(#accent)"/>
+    <text x="72" y="226" fill="#CBD5E1" font-size="21" font-weight="400">Computer Vision  ·  LLMs &amp; RAG  ·  Production AI Systems</text>
+  </g>
+</svg>

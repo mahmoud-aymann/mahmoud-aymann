@@ -1,112 +1,174 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Mahmoud Ayman - AI / ML Engineer" />
+</p>
 
-# Mahmoud Ayman
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahmoud-aymann/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mahmoudaymann153@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://mahmoudayman.me"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://medium.com/@mahmoudayman1"><img src="https://img.shields.io/badge/Medium-0F172A?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+</p>
 
-**AI / ML Engineer · Computer Vision · LLMs & RAG · Full-stack AI products**
+<h3 align="center">I turn AI research into production systems - from edge devices and model pipelines to secure APIs and the interfaces people actually use.</h3>
 
-I build AI systems that leave the notebook - from edge devices and model pipelines to APIs and the dashboards people actually use.
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahmoud--aymann-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-aymann/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mahmoudayman.me-111827?style=flat-square)](https://mahmoudayman.me)
-[![Email](https://img.shields.io/badge/Email-mahmoudaymann153%40gmail.com-3B82F6?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmoudaymann153@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@mahmoudayman1)
+I'm an **AI & Machine Learning Engineer** based in Cairo, Egypt, and a 2026 graduate in **Electronics & Communication Engineering**. I work across **computer vision**, **NLP / LLMs**, **agentic AI** and **full-stack AI products**, and have delivered **100+ freelance and production projects** for clients in Saudi Arabia, Canada and worldwide.
 
-</div>
+- **Vision** - face verification, detection, OCR and real-time inference on edge hardware (Raspberry Pi, ONNX).
+- **Language & agents** - RAG pipelines with vector databases, multi-agent systems (Google ADK, LiteLLM, MCP), grounded answers.
+- **Product** - FastAPI / Flask / NestJS backends, Next.js frontends, PostgreSQL, MongoDB, Redis, Docker.
 
----
+> 🏆 **2nd Place - Electrical Engineering Division**, Engineers Syndicate Innovation & Graduation Projects Forum 2026, for *Digital Verified Driver*.
 
-## About
+<br/>
 
-I'm an AI/ML engineer from Egypt. I take a real-world problem, design the right AI approach, and ship it as a complete product: data and models, a production API, and a clean user interface.
+## Featured work
 
-- **Computer vision** - face verification, object detection, OCR, real-time inference on edge hardware.
-- **LLM systems** - Retrieval-Augmented Generation with vector databases, grounded and source-cited answers.
-- **Full-stack delivery** - FastAPI / NestJS backends, Next.js and vanilla-JS frontends, PostgreSQL, MongoDB, Redis, Docker.
-- B.Sc. Communications & Electronics Engineering *(in progress)* · Advanced Diploma in AI & ML.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mahmoud-aymann/DVD-Digital-Verified-Driver">
+        <img src="./assets/dvd-dashboard.png" alt="DVD dashboard" width="100%" />
+      </a>
+      <h3><a href="https://github.com/mahmoud-aymann/DVD-Digital-Verified-Driver">DVD - Digital Verified Driver</a></h3>
+      <p><b>🏆 2nd Place - Engineers Syndicate Forum 2026.</b> Team graduation project for real-time driver identity verification. An in-car Raspberry Pi runs YOLOv5 + CNN plate OCR at the edge; the server verifies the driver's face with InsightFace (ArcFace embeddings), flags violations, and maps GPS-tagged road hazards on a bilingual command dashboard.</p>
+      <p><code>InsightFace</code> <code>YOLOv5</code> <code>PyTorch</code> <code>ONNX</code> <code>Raspberry Pi</code> <code>FastAPI</code> <code>MongoDB</code></p>
+      <sub>Partial source (API, dashboard, docs) · core AI withheld · full source on request</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mahmoud-aymann/Islamic-Knowledge-RAG-Chatbot">
+        <img src="./assets/sanad-chat.png" alt="Sanad chat" width="100%" />
+      </a>
+      <h3><a href="https://github.com/mahmoud-aymann/Islamic-Knowledge-RAG-Chatbot">Sanad - Islamic Knowledge RAG</a></h3>
+      <p>Arabic-first RAG assistant grounded in a library of ~80k passages. Every answer cites book, author and page, and the system declines when no reliable source passes the similarity threshold - no hallucinated references.</p>
+      <p><code>RAG</code> <code>FastAPI</code> <code>PostgreSQL + pgvector</code> <code>Celery</code> <code>Redis</code> <code>LLMs</code> <code>Docker</code></p>
+      <sub>Partial source (API skeleton, auth, frontend) · RAG core withheld · full source on request</sub>
+    </td>
+  </tr>
+</table>
 
-## What I build
-
-| | |
-|---|---|
-| **Vision systems** | Detection, recognition and OCR pipelines - from training to ONNX export and on-device inference (Raspberry Pi). |
-| **RAG & LLM apps** | Chunking, embeddings, pgvector retrieval, prompt design, provider-agnostic LLM layers and hallucination guards. |
-| **AI products end to end** | Secure REST APIs, role-based access, background workers, reporting, and bilingual (Arabic / English) dashboards. |
-| **Industrial AI** | Safety monitoring with computer vision, such as PPE compliance detection on oil & gas drilling sites. |
-
-## Featured projects
-
-### [DVD - Digital Verified Driver](https://github.com/mahmoud-aymann/DVD-Digital-Verified-Driver)
-Real-time driver identity verification for vehicles. A Raspberry Pi in the car captures the driver and plate, runs YOLO + CNN plate OCR at the edge, and a FastAPI server verifies the face with InsightFace (ArcFace embeddings). Matches, violations and GPS-tagged road hazards (accidents, potholes, violence) stream into a bilingual command dashboard with alerts and reports.
-*Repository contains partial source (API, dashboard, docs) - core AI components withheld; full source on request.*
-`InsightFace` `YOLO` `PyTorch` `ONNX` `Raspberry Pi` `FastAPI` `MongoDB` `JavaScript`
-
-### [Sanad - Islamic Knowledge RAG Chatbot](https://github.com/mahmoud-aymann/Islamic-Knowledge-RAG-Chatbot)
-An Arabic-first RAG assistant that answers only from a curated library of ~80k passages and cites the book, author and page for every answer - and declines when no reliable source is found.
-*Repository contains partial source (API skeleton, auth, frontend) - RAG core withheld; full source on request.*
-`RAG` `FastAPI` `PostgreSQL + pgvector` `Celery` `Redis` `OpenAI-compatible LLMs` `Docker`
-
-### [Blood Cell Prediction](https://github.com/mahmoud-aymann/blood_cell_prediction)
-End-to-end medical-imaging classifier for blood cell types, with a web UI, REST API and a Dockerized deployment.
-`PyTorch` `Flask` `OpenCV` `Docker`
-
-### Private / client work
-- **PPE monitoring system** - computer-vision detection of personal protective equipment compliance for industrial oil & gas drilling sites.
-- **Nurvia** - a full-stack web platform built with NestJS, Next.js, PostgreSQL and Redis.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/mahmoud-aymann/blood_cell_prediction">Blood Cell Prediction</a></b><br/>
+      <sub>Medical-imaging classifier with web UI, REST API and Docker deployment.</sub><br/>
+      <code>PyTorch</code> <code>Flask</code> <code>OpenCV</code>
+    </td>
+    <td width="33%" valign="top">
+      <b>PPE Monitoring</b> <sub>· private</sub><br/>
+      <sub>Computer-vision PPE compliance detection for oil &amp; gas drilling sites.</sub><br/>
+      <code>Object detection</code> <code>Industrial safety</code>
+    </td>
+    <td width="33%" valign="top">
+      <b>Nurvia</b> <sub>· private</sub><br/>
+      <sub>Full-stack web platform.</sub><br/>
+      <code>NestJS</code> <code>Next.js</code> <code>PostgreSQL</code> <code>Redis</code>
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><b>More public projects</b></summary>
+<br/>
 
 | Project | Focus |
 |---|---|
-| [Question-Answering-with-Transformers](https://github.com/mahmoud-aymann/Question-Answering-with-Transformers) | Extractive QA with Transformer models fine-tuned on SQuAD |
+| [Question-Answering-with-Transformers](https://github.com/mahmoud-aymann/Question-Answering-with-Transformers) | Extractive QA with Transformers fine-tuned on SQuAD |
 | [insightface-flask-app](https://github.com/mahmoud-aymann/insightface-flask-app) | Face recognition with InsightFace + Flask |
 | [Resume-Screening-Using-NLP](https://github.com/mahmoud-aymann/Resume-Screening-Using-NLP) | NLP resume screening |
 | [AI-Travel-Agent-Flask](https://github.com/mahmoud-aymann/AI-Travel-Agent-Flask) | LLM-powered travel assistant |
-| [-News_Headline_Classifier](https://github.com/mahmoud-aymann/-News_Headline_Classifier) | News headline classification with scikit-learn + Gradio |
+| [News Headline Classifier](https://github.com/mahmoud-aymann/-News_Headline_Classifier) | Headline classification with scikit-learn + Gradio |
 | [Sentiment_Analysis_on_Product_Reviews](https://github.com/mahmoud-aymann/Sentiment_Analysis_on_Product_Reviews) | Sentiment analysis on product reviews |
-| [Build-a-Neural-Network-from-Scratch](https://github.com/mahmoud-aymann/Build-a-Neural-Network-from-Scratch) | Neural network implemented from first principles |
+| [Build-a-Neural-Network-from-Scratch](https://github.com/mahmoud-aymann/Build-a-Neural-Network-from-Scratch) | Neural network from first principles |
 
 </details>
 
-## Tech stack
+<br/>
 
-**AI / ML**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/Ultralytics_YOLO-111F68?style=flat-square)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+## Experience
 
-**Backend & data**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+| Role | Company | Period |
+|---|---|---|
+| **AI Engineer** · part-time, remote | UQAB (Riyadh, Saudi Arabia) | Mar 2026 - Present |
+| **Freelance Web Developer & Jr. ML Engineer** | Upwork · Khamsat · Mostaql | Jan 2022 - Present |
+| **Agentic AI Intern** · remote | Netpoint | Jul 2026 - Aug 2026 |
+| **NLP Intern** · remote | Elevvo | Feb 2026 - Mar 2026 |
+| **Co-Founder & AI Engineer** · part-time, remote | Swift Technology (Ontario, Canada) | Nov 2023 - Jul 2026 |
 
-**Frontend & DevOps**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<details>
+<summary><b>Highlights</b></summary>
+<br/>
 
-## GitHub stats
+- **UQAB** - built and optimised AI solutions for computer vision, real-time analytics and automation; integrated TensorFlow / PyTorch models with backend APIs.
+- **Netpoint** - multi-agent systems with Google ADK, orchestrated with LiteLLM, FastAPI and Redis; custom MCP servers and Langfuse observability.
+- **Elevvo** - sentiment analysis, question answering (SQuAD) and resume screening, served through Flask / Express APIs.
+- **Freelance** - 100+ projects for Saudi and international clients, from ML prototypes to production websites.
+
+</details>
+
+<br/>
+
+## Education & recognition
+
+| | |
+|---|---|
+| 🎓 **B.Sc. Electronics & Communication Engineering** - Al Safwa High Institute of Engineering and Technology | Aug 2021 - Jul 2026 · Very Good |
+| 📘 **AI & Machine Learning Diploma** - AMIT Learning | Dec 2024 - Dec 2025 |
+| 🥈 **2nd Place**, Electrical Engineering Division - Engineers Syndicate Innovation & Graduation Projects Forum | 2026 |
+| 🚀 **Finalist** - Under 30 Competition (Masar Ventures, Zewail City) | 2026 |
+| 🏅 **Winner** - TechMakers Challenge · AI & IoT Challenge | 2026 |
+| 💡 **Graduation Project Grant** - Innovators Care Fund (ICF) | 2026 |
+
+**Certifications:** NVIDIA - Building LLM Applications With Prompt Engineering · NVIDIA DLI Generative AI (ITI) · IBM / Coursera - Artificial Intelligence Engineer 1 badge, Machine Learning with Python, Deep Learning with Keras and TensorFlow, Introduction to Neural Networks and PyTorch · DataCamp - GitHub Foundations
+
+<br/>
+
+## Toolkit
+
+<table>
+  <tr>
+    <td width="150"><b>AI / ML</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" height="40" /> &nbsp; <code>YOLOv5</code> <code>InsightFace</code> <code>ONNX</code> <code>Hugging Face</code> <code>LangChain</code> <code>LangGraph</code> <code>Google ADK</code> <code>LiteLLM</code> <code>MCP</code></td>
+  </tr>
+  <tr>
+    <td><b>Backend &amp; data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi,flask,nestjs,postgres,mongodb,redis&theme=dark" height="40" /> &nbsp; <code>pgvector</code> <code>FAISS</code> <code>ChromaDB</code> <code>Celery</code></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,ts,js,html,css&theme=dark" height="40" /></td>
+  </tr>
+  <tr>
+    <td><b>Infra &amp; edge</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions,raspberrypi&theme=dark" height="40" /></td>
+  </tr>
+</table>
+
+<br/>
+
+## Currently
+
+- **AI Engineer at UQAB** - computer vision, real-time analytics and automation.
+- Building **RAG** and **agentic AI** systems, and taking *Digital Verified Driver* further.
+- Open to roles and engagements in **Canada, Saudi Arabia and worldwide**.
+
+<br/>
+
+## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-aymann&show_icons=true&hide_border=true&theme=default&count_private=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-aymann&layout=compact&langs_count=6&hide_border=true&theme=default" height="160" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-aymann&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=2DD4BF&text_color=C9D1D9&rank_icon=github" height="165" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=mahmoud-aymann&hide_border=true&background=0D1117&ring=60A5FA&fire=2DD4BF&currStreakLabel=60A5FA&sideLabels=C9D1D9&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=8B949E" height="165" alt="GitHub streak" />
 </p>
 
-## Contact
+<br/>
 
-Open to full-time roles, freelance projects and collaborations in AI / computer vision / LLM engineering.
-The best way to reach me is [LinkedIn](https://www.linkedin.com/in/mahmoud-aymann/) or [email](mailto:mahmoudaymann153@gmail.com). Source code for private projects is available to recruiters and companies on request.
+## Let's talk
+
+Based in Cairo, Egypt · open to opportunities in Canada, Saudi Arabia and worldwide - full-time roles, freelance projects and collaborations in AI, computer vision and LLM engineering. Source code for withheld or private projects is available to recruiters and companies on request.
+
+<p>
+  <a href="https://www.linkedin.com/in/mahmoud-aymann/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mahmoudaymann153@gmail.com"><img src="https://img.shields.io/badge/mahmoudaymann153@gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
