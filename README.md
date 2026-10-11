@@ -1,179 +1,112 @@
 <div align="center">
-           
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:111827&height=200&section=header&text=Mahmoud%20Ayman&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%94%20Computer%20Vision%20%C2%B7%20NLP%20%C2%B7%20Production%20AI&descSize=16&descAlignY=58&descColor=93c5fd" />
-    
-<br/>
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&pause=1400&color=0A66C2&center=true&vCenter=true&width=700&lines=Building+AI+that+ships+to+production.;Computer+Vision+%7C+NLP+%7C+LLMs.;100%2B+clients.+Real+impact.+Measurable+results.)](https://git.io/typing-svg)
 
-<br/>
+# Mahmoud Ayman
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-mahmoudayman.me-111827?style=for-the-badge)](https://mahmoudayman.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-aymann/)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-3B82F6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudaymann153@gmail.com)
+**AI / ML Engineer · Computer Vision · LLMs & RAG · Full-stack AI products**
+
+I build AI systems that leave the notebook - from edge devices and model pipelines to APIs and the dashboards people actually use.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahmoud--aymann-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-aymann/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mahmoudayman.me-111827?style=flat-square)](https://mahmoudayman.me)
+[![Email](https://img.shields.io/badge/Email-mahmoudaymann153%40gmail.com-3B82F6?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmoudaymann153@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@mahmoudayman1)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm an **AI/ML Engineer** from Egypt specializing in building
-**Computer Vision**, **NLP**, and **LLM-powered systems** that go
-beyond notebooks — all the way to production.
+I'm an AI/ML engineer from Egypt. I take a real-world problem, design the right AI approach, and ship it as a complete product: data and models, a production API, and a clean user interface.
 
-My work sits at the intersection of deep learning research and
-real-world engineering: I take a business problem, architect the
-right AI solution, and deliver it as a polished, deployed product.
+- **Computer vision** - face verification, object detection, OCR, real-time inference on edge hardware.
+- **LLM systems** - Retrieval-Augmented Generation with vector databases, grounded and source-cited answers.
+- **Full-stack delivery** - FastAPI / NestJS backends, Next.js and vanilla-JS frontends, PostgreSQL, MongoDB, Redis, Docker.
+- B.Sc. Communications & Electronics Engineering *(in progress)* · Advanced Diploma in AI & ML.
 
-- 🚀 &nbsp;**100+ clients** served, majority web-based AI applications
-- 🎯 &nbsp;End-to-end delivery: discovery → MVP → deployment → monitoring
-- 🌍 &nbsp;Egypt-based · Working with clients **globally**
-- 📚 &nbsp;B.Sc. Communications & Electronics Engineering *(in progress)*
-- 🎓 &nbsp;Advanced Diploma — AI & ML: NLP, CV, LLMs, Generative AI
+## What I build
 
----
-
-## ⚡ Core Expertise
-
-### 🔍 Computer Vision
-| Detection, Segmentation & OCR | Object Tracking & Quality Inspection |
+| | |
 |---|---|
-| Real-time Inference Pipelines | |
+| **Vision systems** | Detection, recognition and OCR pipelines - from training to ONNX export and on-device inference (Raspberry Pi). |
+| **RAG & LLM apps** | Chunking, embeddings, pgvector retrieval, prompt design, provider-agnostic LLM layers and hallucination guards. |
+| **AI products end to end** | Secure REST APIs, role-based access, background workers, reporting, and bilingual (Arabic / English) dashboards. |
+| **Industrial AI** | Safety monitoring with computer vision, such as PPE compliance detection on oil & gas drilling sites. |
 
-### ⚙️ MLOps & Deployment
-| Docker Containerization & CI/CD Pipelines | On-premises, VPC & Managed Cloud Solutions |
-|---|---|
-| Model Versioning & Production Observability | |
+## Featured projects
 
-### 💬 NLP & Language Models
-| Text Classification, NER & Summarization | RAG Pipelines, Fine-tuning & Evaluation |
-|---|---|
-| Advanced Prompt Engineering & Generative AI | |
+### [DVD - Digital Verified Driver](https://github.com/mahmoud-aymann/DVD-Digital-Verified-Driver)
+Real-time driver identity verification for vehicles. A Raspberry Pi in the car captures the driver and plate, runs YOLO + CNN plate OCR at the edge, and a FastAPI server verifies the face with InsightFace (ArcFace embeddings). Matches, violations and GPS-tagged road hazards (accidents, potholes, violence) stream into a bilingual command dashboard with alerts and reports.
+*Repository contains partial source (API, dashboard, docs) - core AI components withheld; full source on request.*
+`InsightFace` `YOLO` `PyTorch` `ONNX` `Raspberry Pi` `FastAPI` `MongoDB` `JavaScript`
 
-### 🧠 LLM Systems Architecture
-| RAG Implementation with Vector Databases | FAISS, Pinecone, Weaviate |
-|---|---|
-| Semantic Search & Intelligent Chunking Strategies | Context Management & Function Calling |
+### [Sanad - Islamic Knowledge RAG Chatbot](https://github.com/mahmoud-aymann/Islamic-Knowledge-RAG-Chatbot)
+An Arabic-first RAG assistant that answers only from a curated library of ~80k passages and cites the book, author and page for every answer - and declines when no reliable source is found.
+*Repository contains partial source (API skeleton, auth, frontend) - RAG core withheld; full source on request.*
+`RAG` `FastAPI` `PostgreSQL + pgvector` `Celery` `Redis` `OpenAI-compatible LLMs` `Docker`
 
-### ⚡ Production LLM Deployment
-| LangChain & LlamaIndex Frameworks | FastAPI-based LLM APIs & Microservices |
-|---|---|
-| Guardrails, Rate Limiting & Smart Caching | Production-ready AI Agents & Workflows |
+### [Blood Cell Prediction](https://github.com/mahmoud-aymann/blood_cell_prediction)
+End-to-end medical-imaging classifier for blood cell types, with a web UI, REST API and a Dockerized deployment.
+`PyTorch` `Flask` `OpenCV` `Docker`
 
-### 🌐 End-to-End AI Solutions
-| REST APIs (FastAPI, Flask) | Modern Web UIs & Secure Endpoints |
-|---|---|
-| Cloud Hosting (Hostinger, Railway, Vercel) | |
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,fastapi,flask,docker,git,html,css,js,mysql,linux&perline=7" />
-</p>
-
-**Also:** `YOLO` &nbsp;`HuggingFace` &nbsp;`LangChain` &nbsp;`TorchScript` &nbsp;`ONNX` &nbsp;`scikit-learn` &nbsp;`Railway` &nbsp;`Vercel`
-
----
-
-## 🏆 Featured Project — Blood Cell Prediction
-
-> **End-to-end medical AI system for automated blood cell classification**
-
-[![Live Demo](https://img.shields.io/badge/🟢%20Live%20Demo-Try%20Now-22c55e?style=for-the-badge)](https://web-production-4a424.up.railway.app/)
-[![Repository](https://img.shields.io/badge/GitHub-View%20Code-111827?style=for-the-badge&logo=github)](https://github.com/mahmoud-aymann/blood_cell_prediction)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.1%2B-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![Last Commit](https://img.shields.io/github/last-commit/mahmoud-aymann/blood_cell_prediction?style=flat-square&color=0A66C2)](https://github.com/mahmoud-aymann/blood_cell_prediction/commits/main)
-
-📊 95%+ Test Accuracy ⚡ <50ms Inference 🔬 8 Cell Classes 🔒 Privacy-First
-
-Code
-
-**What makes it production-grade:**
-
-- ✅ Drag-and-drop web UI with real-time confidence scores
-- ✅ REST API with secure, in-memory processing — zero data stored
-- ✅ Reproducible training pipeline (seed control, versioned datasets, configs)
-- ✅ ONNX / TorchScript export-ready for edge deployment
-- ✅ Dockerized — one-click Railway deploy template
-
-**Stack:** `PyTorch` · `Flask` · `OpenCV` · `scikit-learn` · `Docker` · `Railway`
-
----
-
-## 📦 Enterprise Delivery Standards
-
-| Pillar | What you get |
-|---|---|
-| 🔐 **Security** | Secure data handling, private endpoints, access controls |
-| ☁️ **Deployment** | On-prem, VPC, or managed cloud — with IaC support |
-| 📈 **Observability** | Experiment tracking, model versioning, metrics dashboards |
-| 📋 **Reproducibility** | Full documentation and auditability by default |
-| 🤝 **Engagement** | Clear milestones, SLAs, and transparent reporting |
-
----
-
-## 🌐 Selected Client Web Projects
+### Private / client work
+- **PPE monitoring system** - computer-vision detection of personal protective equipment compliance for industrial oil & gas drilling sites.
+- **Nurvia** - a full-stack web platform built with NestJS, Next.js, PostgreSQL and Redis.
 
 <details>
-<summary><b>🏢 Featured Projects </b></summary>
+<summary><b>More public projects</b></summary>
 
-| Project | Description | Stack |
-|---|---|---|
-| [**UQAB**](https://uqab.io/) | End-to-end digital transformation · Elite engineers & consultants | Enterprise · AI · Consulting |
-| [**Smart Hands**](https://smarthands.sa) | Professional services platform · Scalable backend architecture | Laravel · PHP · MySQL |
-| [**Mudun SA**](https://mudunsa.com/) | Urban development platform · Clean design & content delivery | HTML · CSS · JS |
-| [**Dazzle Architect**](https://dazzle-architect.com/) | Architecture & Design | HTML · CSS · JS · Bootstrap |
-| [**Burj Al Enjaz**](https://burj-alenjaz.com/) | Real Estate Development | HTML · CSS · JS · Bootstrap |
-| [**Cars Oil**](https://cars-oil.com/) | Automotive Services | HTML · CSS · JS · Bootstrap |
-| [**Nurvia**](https://nurviaconsultation.com/) | Modern digital platform · Scalable web solutions | Web · UI/UX · Performance |
-| [**HNH**](https://hnhksa.com/) | Business-focused website · Strong branding | Web · Branding |
-| [**Luxe Link Software**](http://luxelinksoftware.com/) | Web, Mobile & AI solutions · Enterprise security | Web · Mobile · AI · Cloud |
-| [**Arabgulf Electronic Trading**](https://arabgulfae.com/) | Premium e-commerce platform · UAE based | E-commerce · HTML · CSS · JS |
-| [**Wise Software**](https://wisesoftware-sa.com/) | Tech services e-commerce · Modern UI | HTML · CSS · JavaScript |
+| Project | Focus |
+|---|---|
+| [Question-Answering-with-Transformers](https://github.com/mahmoud-aymann/Question-Answering-with-Transformers) | Extractive QA with Transformer models fine-tuned on SQuAD |
+| [insightface-flask-app](https://github.com/mahmoud-aymann/insightface-flask-app) | Face recognition with InsightFace + Flask |
+| [Resume-Screening-Using-NLP](https://github.com/mahmoud-aymann/Resume-Screening-Using-NLP) | NLP resume screening |
+| [AI-Travel-Agent-Flask](https://github.com/mahmoud-aymann/AI-Travel-Agent-Flask) | LLM-powered travel assistant |
+| [-News_Headline_Classifier](https://github.com/mahmoud-aymann/-News_Headline_Classifier) | News headline classification with scikit-learn + Gradio |
+| [Sentiment_Analysis_on_Product_Reviews](https://github.com/mahmoud-aymann/Sentiment_Analysis_on_Product_Reviews) | Sentiment analysis on product reviews |
+| [Build-a-Neural-Network-from-Scratch](https://github.com/mahmoud-aymann/Build-a-Neural-Network-from-Scratch) | Neural network implemented from first principles |
 
-> 🌍 **Regional Impact, Global Standards** — Delivering enterprise-grade solutions to leading organizations across Saudi Arabia, UAE, and the MENA ecosystem.
 </details>
 
----
+## Tech stack
 
-## 📊 GitHub Stats
+**AI / ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/Ultralytics_YOLO-111F68?style=flat-square)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+**Backend & data**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+
+**Frontend & DevOps**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## GitHub stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-aymann&theme=github_dark" alt="Profile Summary" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-aymann&show_icons=true&hide_border=true&theme=default&count_private=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-aymann&layout=compact&langs_count=6&hide_border=true&theme=default" height="160" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-aymann&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="340" />
-</p>
+## Contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-aymann&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-aymann&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud-aymann&theme=github-compact&hide_border=true&area=true" width="95%" />
-</p>
-
----
-
-## 📬 Let's Connect
-
-<p align="center">
-  <a href="https://mahmoudayman.me"><img src="https://img.shields.io/badge/🌐%20Website-mahmoudayman.me-111827?style=for-the-badge" /></a>
-  <a href="mailto:mahmoudaymann153@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-Reach%20Out-3B82F6?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/mahmoud-aymann/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="http://www.medium.com/@mahmoudayman1"><img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
-
-<div align="center">
-
-*Open to freelance projects, collaborations, and full-time opportunities.*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0A66C2&height=100&section=footer" />
+Open to full-time roles, freelance projects and collaborations in AI / computer vision / LLM engineering.
+The best way to reach me is [LinkedIn](https://www.linkedin.com/in/mahmoud-aymann/) or [email](mailto:mahmoudaymann153@gmail.com). Source code for private projects is available to recruiters and companies on request.
