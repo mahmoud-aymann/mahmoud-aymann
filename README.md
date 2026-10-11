@@ -129,11 +129,11 @@ I'm an **AI & Machine Learning Engineer** based in Cairo, Egypt, and a 2026 grad
 <table>
   <tr>
     <td width="150"><b>AI / ML</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" height="40" /> &nbsp; <code>YOLOv5</code> <code>InsightFace</code> <code>ONNX</code> <code>Hugging Face</code> <code>LangChain</code> <code>LangGraph</code> <code>Google ADK</code> <code>LiteLLM</code> <code>MCP</code></td>
+    <td><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" height="40" /><br/><img src="https://img.shields.io/badge/YOLOv5-111F68?style=flat-square&logo=ultralytics&logoColor=white" alt="YOLOv5" /> <img src="https://img.shields.io/badge/InsightFace-6A1B9A?style=flat-square" alt="InsightFace" /> <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" /> <img src="https://img.shields.io/badge/Hugging_Face-FFB000?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" /> <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google ADK" /> <img src="https://img.shields.io/badge/LiteLLM-475569?style=flat-square" alt="LiteLLM" /> <img src="https://img.shields.io/badge/MCP-475569?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" /></td>
   </tr>
   <tr>
     <td><b>Backend &amp; data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=fastapi,flask,nestjs,postgres,mongodb,redis&theme=dark" height="40" /> &nbsp; <code>pgvector</code> <code>FAISS</code> <code>ChromaDB</code> <code>Celery</code></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi,flask,nestjs,postgres,mongodb,redis&theme=dark" height="40" /><br/><img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" /> <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" alt="FAISS" /> <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square" alt="ChromaDB" /> <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" /></td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
